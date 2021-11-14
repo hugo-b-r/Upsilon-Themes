@@ -1,11 +1,7 @@
 # Upsilon-Themes
-It is a simple repo to have both light and dark Upsilon themes.
+It is a simple repo to have dark Upsilon theme.
 
 Just  compile Upsilon with this args:
-```bash
-THEME_NAME=upsilon_light THEME_REPO=https://github.com/lemoustachu/Upsilon-Themes.git
-```
-or:
 ```bash
 THEME_NAME=upsilon_dark THEME_REPO=https://github.com/lemoustachu/Upsilon-Themes.git
 ```
