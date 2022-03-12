@@ -7,7 +7,7 @@
    xml:space="preserve"
    style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
    id="svg1079"
-   sodipodi:docname="upsilon_icons.svg"
+   sodipodi:docname="upsilon-dark-icons.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -56,120 +56,18 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="5.6568543"
-   inkscape:cx="71.771338"
-   inkscape:cy="360.44768"
+   inkscape:zoom="2"
+   inkscape:cx="-57.25"
+   inkscape:cy="110.5"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1079" />
+    
     <g
-   id="calculation_icon"
-   transform="matrix(0.674869,0,0,0.68714,0,-253.033)">
-        <rect
-   x="0"
-   y="368.241"
-   width="81.497"
-   height="81.497"
-   id="rect2"
-   class="calculatorBackground"
-   style="" />
-        <clipPath
-   id="_clip1">
-            <rect
-   x="0"
-   y="368.241"
-   width="81.497"
-   height="81.497"
-   id="rect4" />
-        </clipPath>
-        <g
-   clip-path="url(#_clip1)"
-   id="g41">
-            <g
-   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
-   id="g11">
-                <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   id="path7"
-   class="iconBackground"
-   style="" />
-                <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   id="path9"
-   class="borderColor  iconBackground"
-   style="" />
-            </g>
-            <g
-   transform="matrix(1.42789,0,0,1.40333,1.48177,-146.73)"
-   id="g15">
-                <path
-   d="M55,396L27.5,396L27.5,424L47.736,424C51.745,424 55,420.747 55,416.741L55,396Z"
-   style="stroke:none"
-   id="path13"
-   class="Grey " />
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
-   id="g19">
-                <path
-   d="M0,396L55,396"
-   style="stroke:#4b4b4b;stroke-width:1px"
-   id="path17"
-   class="calculatorBackground" />
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,5.16117,-144.918)"
-   id="g23">
-                <text
-   x="29.23px"
-   y="404.736px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px;fill:#171917;"
-   id="text21">=</text>
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,6.53581,-146.829)"
-   id="g27">
-                <text
-   x="2.888px"
-   y="379.003px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px"
-   id="text25"
-   class="upsilonBlue">+</text>
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,6.39906,-107.309)"
-   id="g31"
-   class="upsilonBlue"
-   style="">
-                <text
-   x="2.863px"
-   y="379.003px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px"
-   id="text29"
-   class="upsilonBlue">÷</text>
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,44.6015,-146.829)"
-   id="g35">
-                <text
-   x="2.759px"
-   y="379.003px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px"
-   id="text33"
-   class="upsilonBlue">-</text>
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
-   id="g39">
-
-            </g>
-        </g>
-    </g>
-    <g
-   id="Python"
+   id="code_icon"
    transform="matrix(0.674869,0,0,0.68714,0,-166.033)">
         <rect
    x="0"
@@ -255,18 +153,17 @@
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect75"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip3">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect77" />
         </clipPath>
         <g
@@ -279,13 +176,11 @@
    id="Icon-Border1"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path80"
    class="iconBackground" />
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path82"
    class="borderColor" />
                 </g>
@@ -294,7 +189,7 @@
    transform="matrix(1.48177,0,0,1.45531,0,-1230.27)"
    id="g89">
                 <path
-   d="M1,1126.4L54,1126.4"
+   d="M 1,1126.4 H 54"
    style="fill:none;stroke:#4b4b4b;stroke-width:1px"
    id="path87"
    class="borderColor" />
@@ -302,12 +197,11 @@
             <g
    transform="matrix(1.48177,0,0,1.45531,-84.4513,-146.707)"
    id="g93"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <text
-   x="67.652px"
-   y="375.263px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px"
+   x="67.652"
+   y="375.263"
+   style="font-size:20px;font-family:Righteous-Regular, Righteous"
    id="text91"
    class="upsilonBlue">x=?</text>
             </g>
@@ -315,19 +209,19 @@
    transform="matrix(1.48177,0,0,1.45531,-89.366,-109.187)"
    id="g101">
                 <text
-   x="70.552px"
-   y="375.263px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px;fill:#ccc;"
+   x="70.552002"
+   y="375.263"
+   style="font-size:20px;font-family:Righteous-Regular, Righteous;fill:#cccccc"
    id="text95">y</text>
                 <text
-   x="81.812px"
-   y="375.263px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px;fill:#ccc;"
+   x="81.811996"
+   y="375.263"
+   style="font-size:20px;font-family:Righteous-Regular, Righteous;fill:#cccccc"
    id="text97">=</text>
                 <text
-   x="92.793px"
-   y="375.263px"
-   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px;fill:#ccc;"
+   x="92.792999"
+   y="375.263"
+   style="font-size:20px;font-family:Righteous-Regular, Righteous;fill:#cccccc"
    id="text99">?</text>
             </g>
         </g>
@@ -338,18 +232,17 @@
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect106"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip4">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect108" />
         </clipPath>
         <g
@@ -362,13 +255,11 @@
    id="Icon-Border2"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path111"
    class="iconBackground" />
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path113"
    class="borderColor" />
                 </g>
@@ -377,54 +268,48 @@
    transform="matrix(1.22246,0,0,1.45531,-189.074,-165.857)"
    id="g120">
                 <path
-   d="M208,409L168,409L168,380"
-   style="fill:none;stroke:#ccc;stroke-width:2.18px;"
+   d="M 208,409 H 168 V 380"
+   style="fill:none;stroke:#cccccc;stroke-width:2.18px"
    id="path118" />
             </g>
             <g
    transform="matrix(1.48177,0,0,1.45531,-0.740884,-1354.84)"
    id="g124">
                 <path
-   d="M18,1220L38,1200"
-   style="fill:none;stroke:#4b4b4b;stroke-width:2px;"
+   d="m 18,1220 20,-20"
+   style="fill:none;stroke:#4b4b4b;stroke-width:2px"
    id="path122" />
             </g>
             <g
    transform="matrix(2.96354,0,0,2.91062,-282.277,-2871.19)"
    id="g128"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <circle
    cx="105"
    cy="1123"
    r="1"
-   style=""
    id="circle126"
    class="upsilonBlue" />
             </g>
             <g
    transform="matrix(2.96354,0,0,2.91062,-264.302,-2847.99)"
    id="g132"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <circle
    cx="105"
    cy="1123"
    r="1"
-   style=""
    id="circle130"
    class="upsilonBlue" />
             </g>
             <g
    transform="matrix(2.96354,0,0,2.91062,-255.605,-2862.54)"
    id="g136"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <circle
    cx="105"
    cy="1123"
    r="1"
-   style=""
    id="circle134"
    class="upsilonBlue" />
             </g>
@@ -496,8 +381,7 @@
    width="81.497002"
    height="81.497002"
    id="rect164"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip6">
             <rect
@@ -518,12 +402,10 @@
    serif:id="Icon Border">
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
-   style=""
    id="path169"
    class="iconBackground" />
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
-   style=""
    id="path171"
    class="borderColor" />
                 </g>
@@ -708,29 +590,28 @@
     </g>
     <g
    id="Atom"
-   transform="matrix(0.674869,0,0,0.68714,80,-80.0331)">
+   transform="matrix(0.674869,0,0,0.68714,80,-80.0331)"
+   inkscape:label="atomic_icon">
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect246"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip9">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect248" />
         </clipPath>
         <g
    clip-path="url(#_clip9)"
    id="g274"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
             <g
    transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
    id="g256">
@@ -738,8 +619,7 @@
    id="Icon-Border6"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path251"
    class="iconBackground" />
                     <path
@@ -752,12 +632,10 @@
             <g
    transform="matrix(2.96354,0,0,2.91062,-270.423,-2859.63)"
    id="g260"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <ellipse
    cx="105"
    cy="1123"
-   style=""
    id="circle258"
    rx="0.99999934"
    ry="1"
@@ -771,7 +649,7 @@
    cy="1126"
    rx="21"
    ry="10"
-   style="fill:none;stroke:#ccc;stroke-width:2.7px;"
+   style="fill:none;stroke:#cccccc;stroke-width:2.7px"
    id="ellipse262" />
             </g>
             <g
@@ -782,7 +660,7 @@
    cy="1126"
    rx="21"
    ry="10"
-   style="fill:none;stroke:#ccc;stroke-width:2.7px;"
+   style="fill:none;stroke:#cccccc;stroke-width:2.7px"
    id="ellipse266" />
             </g>
             <g
@@ -793,7 +671,7 @@
    cy="1126"
    rx="21"
    ry="10"
-   style="fill:none;stroke:#ccc;stroke-width:2.7px;"
+   style="fill:none;stroke:#cccccc;stroke-width:2.7px"
    id="ellipse270" />
             </g>
         </g>
@@ -804,18 +682,17 @@
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect277"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip10">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect279" />
         </clipPath>
         <g
@@ -828,13 +705,11 @@
    id="Icon-Border7"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path282"
    class="iconBackground" />
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path284"
    class="borderColor" />
                 </g>
@@ -842,11 +717,9 @@
             <g
    transform="matrix(1.48177,0,0,1.45531,-237.394,-1230.83)"
    id="g291"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <path
-   d="M203.21,1140.79L171.21,1140.79L171.21,1132.79L179.21,1132.79L179.21,1126.79L187.21,1126.79L187.21,1120.79L195.21,1120.79L195.21,1114.79L203.21,1114.79L203.21,1140.79Z"
-   style=""
+   d="m 203.21,1140.79 h -32 v -8 h 8 v -6 h 8 v -6 h 8 v -6 h 8 z"
    id="path289"
    class="upsilonBlue" />
             </g>
@@ -854,30 +727,30 @@
    transform="matrix(1.22246,0,0,1.45531,-189.074,-164.402)"
    id="g295">
                 <path
-   d="M208,409L168,409L168,380"
-   style="fill:none;stroke:#ccc;stroke-width:2.18px;"
+   d="M 208,409 H 168 V 380"
+   style="fill:none;stroke:#cccccc;stroke-width:2.18px"
    id="path293" />
             </g>
         </g>
     </g>
     <g
    id="Statistics"
-   transform="matrix(0.674869,0,0,0.68714,80,-166.033)">
+   transform="matrix(0.674869,0,0,0.68714,80,-166.033)"
+   inkscape:label="stat_icon">
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect300"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip11">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect302" />
         </clipPath>
         <g
@@ -890,13 +763,11 @@
    id="Icon-Border8"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path305"
    class="iconBackground" />
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096C47.683,419.096 12.014,419.096 12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path307"
    class="borderColor" />
                 </g>
@@ -904,14 +775,12 @@
             <g
    transform="matrix(1.48177,0,0,1.45531,-117.06,-275.005)"
    id="g314"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <rect
    x="101"
    y="455"
    width="11"
    height="33"
-   style=""
    id="rect312"
    class="upsilonBlue" />
             </g>
@@ -942,23 +811,23 @@
         </g>
     </g>
     <g
-   id="Probability"
-   transform="matrix(0.674869,0,0,0.68714,160,-166.033)">
+   id="g201"
+   transform="matrix(0.674869,0,0,0.68714,160,-166.033)"
+   inkscape:label="probability_icon">
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect327"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip12">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect329" />
         </clipPath>
         <g
@@ -971,13 +840,11 @@
    id="Icon-Border9"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path332"
    class="iconBackground" />
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096C47.683,419.096 12.014,419.096 12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path334"
    class="borderColor" />
                 </g>
@@ -986,7 +853,7 @@
    transform="matrix(1.48177,0,0,1.45531,-235.601,-272.822)"
    id="g341">
                 <path
-   d="M167,486C167,486 174.774,481.338 176,469.5C176.808,461.7 179.251,457 185,457L185,486L167,486Z"
+   d="m 167,486 c 0,0 7.774,-4.662 9,-16.5 0.808,-7.8 3.251,-12.5 9,-12.5 v 29 z"
    style="stroke:none;stroke-width:1px"
    id="path339"
    class="Grey " />
@@ -994,10 +861,9 @@
             <g
    transform="matrix(-1.48177,0,0,1.45531,317.098,-272.822)"
    id="g345"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <path
-   d="M167,486C167,486 174.774,481.338 176,469.5C176.808,461.7 179.251,457 185,457L185,486L167,486Z"
+   d="m 167,486 c 0,0 7.774,-4.662 9,-16.5 0.808,-7.8 3.251,-12.5 9,-12.5 v 29 z"
    style="stroke:none;stroke-width:1px"
    id="path343"
    class="upsilonBlue" />
@@ -1009,7 +875,8 @@
    transform="matrix(0.674869,0,0,0.68714,80,-253.033)"
    inkscape:export-filename="C:\Users\hugob\Desktop\RPN.png"
    inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96">
+   inkscape:export-ydpi="96"
+   inkscape:label="rpn_icon">
         <rect
    x="0"
    y="368.241"
@@ -1038,14 +905,14 @@
    serif:id="Icon Border">
                     <path
    d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
    id="path355"
-   class="iconBackground" />
+   class="iconBackground"
+   style="" />
                     <path
    d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
    id="path357"
-   class="borderColor" />
+   class="borderColor"
+   style="" />
                 </g>
             </g>
             <g
@@ -1102,18 +969,17 @@
         <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect385"
-   class="calculatorBackground"
-   style="" />
+   class="calculatorBackground" />
         <clipPath
    id="_clip14">
             <rect
    x="0"
    y="368.241"
-   width="81.497"
-   height="81.497"
+   width="81.497002"
+   height="81.497002"
    id="rect387" />
         </clipPath>
         <g
@@ -1126,13 +992,11 @@
    id="Icon-Border11"
    serif:id="Icon Border">
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path390"
    class="iconBackground " />
                     <path
-   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
-   style=""
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path392"
    class="borderColor" />
                 </g>
@@ -1141,8 +1005,7 @@
    transform="matrix(1.48177,0,0,1.45531,-237.083,-167.312)"
    id="g399">
                 <path
-   d="M171,410.5C171,410.5 174.314,386 199,386L199,410.5L171,410.5Z"
-   style=""
+   d="m 171,410.5 c 0,0 3.314,-24.5 28,-24.5 v 24.5 z"
    id="path397"
    class="upsilonBlue" />
             </g>
@@ -1150,8 +1013,8 @@
    transform="matrix(1.22246,0,0,1.45531,-189.074,-164.402)"
    id="g403">
                 <path
-   d="M208,409L168,409L168,380"
-   style="fill:none;stroke:#ccc;stroke-width:2.18px;"
+   d="M 208,409 H 168 V 380"
+   style="fill:none;stroke:#cccccc;stroke-width:2.18px"
    id="path401" />
             </g>
         </g>
@@ -3190,15 +3053,10 @@
             </g>
         </g>
     </g>
-<rect
-   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.469509;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
-   id="rect20729-6"
-   width="34.549713"
-   height="1.7406615"
-   x="167.1978"
-   y="384.48123" /><g
+<g
    id="g24343"
-   transform="translate(-80.000161,-84.000349)"><rect
+   transform="translate(-80.000161,-84.000349)"
+   inkscape:label="Reader"><rect
      x="118.54176"
      y="490.48734"
      width="81.497002"
@@ -3224,11 +3082,9 @@
              id="Icon-Border4-2-3"
              serif:id="Icon Border"><path
                d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
-               style=""
                id="path169-6-0"
                class="iconBackground" /><path
                d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
-               style=""
                id="path171-7-0"
                class="borderColor" /></g></g><g
            transform="matrix(2.22538,0,0,2e-6,-21.5621,392.981)"
@@ -3408,19 +3264,119 @@
            height="1.7406615"
            x="167.1978"
            y="349.668"
-           class="Grey" /></g></g></g></g><rect
-   style="fill-opacity:1;stroke:none;stroke-width:4.4042"
-   id="rect2036"
-   width="53.038536"
-   height="1"
-   x="0.98063195"
-   y="27.500044"
-   class="borderColor" /><rect
-   style="clip-rule:evenodd;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.51428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-   id="rect2036-1"
-   width="55.722862"
-   height="1"
-   x="0.1235347"
-   y="-28.011715"
-   class="borderColor"
-   transform="matrix(-4.2207537e-4,0.99999991,-0.99999985,-5.4814546e-4,0,0)" /></svg>
+           class="Grey" /></g></g></g></g><g
+   id="g1489"
+   inkscape:label="Calculation"><g
+     id="calculation_icon"
+     transform="matrix(0.674869,0,0,0.68714,0,-253.033)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect2"
+   class="calculatorBackground" />
+        <clipPath
+   id="_clip1">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect4" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip1)"
+   id="g41">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g11">
+                <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
+   id="path7"
+   class="iconBackground" />
+                <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
+   id="path9"
+   class="borderColor  iconBackground" />
+            </g>
+            <g
+   transform="matrix(1.42789,0,0,1.40333,1.48177,-146.73)"
+   id="g15">
+                <path
+   d="M 55,396 H 27.5 v 28 H 47.736 C 51.745,424 55,420.747 55,416.741 Z"
+   style="stroke:none"
+   id="path13"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
+   id="g19">
+                <path
+   d="M 0,396 H 55"
+   style="stroke:#4b4b4b;stroke-width:1px"
+   id="path17"
+   class="calculatorBackground" />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,5.16117,-144.918)"
+   id="g23">
+                <text
+   x="29.23"
+   y="404.73599"
+   style="font-size:30px;font-family:Righteous-Regular, Righteous;fill:#171917"
+   id="text21">=</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,6.53581,-146.829)"
+   id="g27">
+                <text
+   x="2.888"
+   y="379.00299"
+   style="font-size:30px;font-family:Righteous-Regular, Righteous"
+   id="text25"
+   class="upsilonBlue">+</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,6.39906,-107.309)"
+   id="g31"
+   class="upsilonBlue">
+                <text
+   x="2.8629999"
+   y="379.00299"
+   style="font-size:30px;font-family:Righteous-Regular, Righteous"
+   id="text29"
+   class="upsilonBlue">÷</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,44.6015,-146.829)"
+   id="g35">
+                <text
+   x="2.7590001"
+   y="379.00299"
+   style="font-size:30px;font-family:Righteous-Regular, Righteous"
+   id="text33"
+   class="upsilonBlue">-</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
+   id="g39">
+
+            </g>
+        </g>
+    </g><rect
+     style="fill-opacity:1;stroke:none;stroke-width:4.4042"
+     id="rect2036"
+     width="53.038536"
+     height="1"
+     x="0.98063195"
+     y="27.500044"
+     class="borderColor" /><rect
+     style="clip-rule:evenodd;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.51428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect2036-1"
+     width="55.722862"
+     height="1"
+     x="0.1235347"
+     y="-28.011715"
+     class="borderColor"
+     transform="matrix(-4.2207537e-4,0.99999991,-0.99999985,-5.4814546e-4,0,0)" /></g></svg>
