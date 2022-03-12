@@ -65,7 +65,7 @@
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1079" />
-    
+
     <g
    id="code_icon"
    transform="matrix(0.674869,0,0,0.68714,0,-166.033)">
@@ -227,7 +227,7 @@
         </g>
     </g>
     <g
-   id="Regression"
+   id="regression_icon"
    transform="matrix(0.674869,0,0,0.68714,0,4.96689)">
         <rect
    x="0"
@@ -373,7 +373,7 @@
         </g>
     </g>
     <g
-   id="Settings"
+   id="settings_icon"
    transform="matrix(0.674869,0,0,0.68714,160,4.9668896)">
         <rect
    x="0"
@@ -509,7 +509,7 @@
         </g>
     </g>
     <g
-   id="External"
+   id="external_icon"
    transform="matrix(0.674869,0,0,0.68714,0,89.966881)">
         <rect
    x="0"
@@ -589,9 +589,9 @@
         </g></g>
     </g>
     <g
-   id="Atom"
+   id="atomic_icon"
    transform="matrix(0.674869,0,0,0.68714,80,-80.0331)"
-   inkscape:label="atomic_icon">
+   inkscape:label="atomic_icon1">
         <rect
    x="0"
    y="368.241"
@@ -677,7 +677,7 @@
         </g>
     </g>
     <g
-   id="Sequence"
+   id="sequence_icon"
    transform="matrix(0.674869,0,0,0.68714,160,-80.0331)">
         <rect
    x="0"
@@ -734,9 +734,9 @@
         </g>
     </g>
     <g
-   id="Statistics"
+   id="stat_icon"
    transform="matrix(0.674869,0,0,0.68714,80,-166.033)"
-   inkscape:label="stat_icon">
+   inkscape:label="stat_icon1">
         <rect
    x="0"
    y="368.241"
@@ -811,9 +811,9 @@
         </g>
     </g>
     <g
-   id="g201"
+   id="probability_icon"
    transform="matrix(0.674869,0,0,0.68714,160,-166.033)"
-   inkscape:label="probability_icon">
+   inkscape:label="probability_icon1">
         <rect
    x="0"
    y="368.241"
@@ -871,12 +871,12 @@
         </g>
     </g>
     <g
-   id="RPN"
+   id="rpn_icon"
    transform="matrix(0.674869,0,0,0.68714,80,-253.033)"
    inkscape:export-filename="C:\Users\hugob\Desktop\RPN.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:label="rpn_icon">
+   inkscape:label="rpn_icon1">
         <rect
    x="0"
    y="368.241"
@@ -3054,7 +3054,7 @@
         </g>
     </g>
 <g
-   id="g24343"
+   id="reader_icon"
    transform="translate(-80.000161,-84.000349)"
    inkscape:label="Reader"><rect
      x="118.54176"
@@ -3066,7 +3066,7 @@
      transform="matrix(0.674869,0,0,0.68714,80,4.96689)"
      class="calculatorBackground" /><g
      id="g24121"><g
-       id="Settings-8-6"
+       id="setting8-6"
        transform="matrix(0.674869,0,0,0.68714,160.00001,88.966894)"
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"><clipPath
          id="clipPath1421-1"><rect
@@ -3265,9 +3265,9 @@
            x="167.1978"
            y="349.668"
            class="Grey" /></g></g></g></g><g
-   id="g1489"
+   id="calculation_icon"
    inkscape:label="Calculation"><g
-     id="calculation_icon"
+     id="calculation_icon1"
      transform="matrix(0.674869,0,0,0.68714,0,-253.033)">
         <rect
    x="0"
