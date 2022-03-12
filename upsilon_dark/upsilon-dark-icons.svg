@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:serif="http://www.serif.com/"><style
    id="style1518">
-.iconBackground { 
+.iconBackground {
     fill:#171917;
 }
 .calculatorBackground { fill:#000000; }
@@ -66,7 +66,7 @@
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1079" />
     <g
-   id="Calculation"
+   id="calculation_icon"
    transform="matrix(0.674869,0,0,0.68714,0,-253.033)">
         <rect
    x="0"
@@ -164,7 +164,7 @@
             <g
    transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
    id="g39">
-                
+
             </g>
         </g>
     </g>
@@ -250,7 +250,7 @@
         </g>
     </g>
     <g
-   id="Equation"
+   id="solver_icon"
    transform="matrix(0.674869,0,0,0.68714,0,-80.0331)">
         <rect
    x="0"
@@ -1097,7 +1097,7 @@
         </g>
     </g>
     <g
-   id="Functions"
+   id="graph_icon"
    transform="matrix(0.674869,0,0,0.68714,160,-253.033)">
         <rect
    x="0"
