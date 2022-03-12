@@ -1,0 +1,3426 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="100%"
+   height="100%"
+   viewBox="0 0 366 480"
+   version="1.1"
+   xml:space="preserve"
+   style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"
+   id="svg1079"
+   sodipodi:docname="upsilon_icons.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:serif="http://www.serif.com/"><style
+   id="style1518">
+.iconBackground { 
+    fill:#171917;
+}
+.calculatorBackground { fill:#000000; }
+.Grey { fill:#ccc; }
+.borderColor { fill:#4B4B4B; }
+.probabilityColor { fill: #C03535; }
+.upsilonBlue { fill:#2071ED; }
+</style><defs
+   id="defs1083"><marker
+     style="overflow:visible"
+     id="Arrow1Lstart"
+     refX="0.0"
+     refY="0.0"
+     orient="auto"
+     inkscape:stockid="Arrow1Lstart"
+     inkscape:isstock="true"><path
+       transform="scale(0.8) translate(12.5,0)"
+       style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+       d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+       id="path19512" /></marker><clipPath
+     id="_clip6-8"><rect
+       x="0"
+       y="368.241"
+       width="81.497002"
+       height="81.497002"
+       id="rect166-2" /></clipPath><clipPath
+     id="_clip6-8-3"><rect
+       x="0"
+       y="368.241"
+       width="81.497002"
+       height="81.497002"
+       id="rect166-2-6" /></clipPath></defs><sodipodi:namedview
+   id="namedview1081"
+   pagecolor="#ffffff"
+   bordercolor="#999999"
+   borderopacity="1"
+   inkscape:pageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   showgrid="false"
+   inkscape:zoom="5.6568543"
+   inkscape:cx="71.771338"
+   inkscape:cy="360.44768"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg1079" />
+    <g
+   id="Calculation"
+   transform="matrix(0.674869,0,0,0.68714,0,-253.033)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect2"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip1">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect4" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip1)"
+   id="g41">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g11">
+                <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   id="path7"
+   class="iconBackground"
+   style="" />
+                <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   id="path9"
+   class="borderColor  iconBackground"
+   style="" />
+            </g>
+            <g
+   transform="matrix(1.42789,0,0,1.40333,1.48177,-146.73)"
+   id="g15">
+                <path
+   d="M55,396L27.5,396L27.5,424L47.736,424C51.745,424 55,420.747 55,416.741L55,396Z"
+   style="stroke:none"
+   id="path13"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
+   id="g19">
+                <path
+   d="M0,396L55,396"
+   style="stroke:#4b4b4b;stroke-width:1px"
+   id="path17"
+   class="calculatorBackground" />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,5.16117,-144.918)"
+   id="g23">
+                <text
+   x="29.23px"
+   y="404.736px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px;fill:#171917;"
+   id="text21">=</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,6.53581,-146.829)"
+   id="g27">
+                <text
+   x="2.888px"
+   y="379.003px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px"
+   id="text25"
+   class="upsilonBlue">+</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,6.39906,-107.309)"
+   id="g31"
+   class="upsilonBlue"
+   style="">
+                <text
+   x="2.863px"
+   y="379.003px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px"
+   id="text29"
+   class="upsilonBlue">÷</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,44.6015,-146.829)"
+   id="g35">
+                <text
+   x="2.759px"
+   y="379.003px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:30px"
+   id="text33"
+   class="upsilonBlue">-</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0,-167.312)"
+   id="g39">
+                
+            </g>
+        </g>
+    </g>
+    <g
+   id="Python"
+   transform="matrix(0.674869,0,0,0.68714,0,-166.033)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect44" />
+        <clipPath
+   id="_clip2">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect46" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip2)"
+   id="g72">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g54">
+                <g
+   id="Icon-Border"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path49"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096C47.683,419.096 12.014,419.096 12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path51"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0.19357,-270.459)"
+   id="g58">
+                <path
+   d="M16,477L16,470C16,470 15.748,466 20,466L34,466C34,466 37,465.923 37,463L37,451C37,451 37.05,448 34,448L20,448C20,448 17,447.842 17,451L17,456L27.5,456L27.5,458L11,458C11,458 8,457.74 8,461L8,474C8,474 7.595,477 11,477L16,477Z"
+   style="stroke:none"
+   id="path56"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(-1.48177,1.78224e-16,-1.81464e-16,-1.45531,81.3037,1088.44)"
+   id="g62"
+   class="upsilonBlue"
+   style="">
+                <path
+   d="M16,477L16,470C16,470 15.748,466 20,466L34,466C34,466 37,465.923 37,463L37,451C37,451 37.05,448 34,448L20,448C20,448 17,447.842 17,451L17,456L27.5,456L27.5,458L11,458C11,458 8,457.74 8,461L8,474C8,474 7.595,477 11,477L16,477Z"
+   style=""
+   id="path60"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(1.94346,0,0,1.90876,-9.23389,-477.054)"
+   id="g66">
+                <circle
+   cx="21"
+   cy="453"
+   r="1"
+   style="fill:#171917;"
+   id="circle64" />
+            </g>
+            <g
+   transform="matrix(1.94346,0,0,1.90876,8.95235,-433.97)"
+   id="g70">
+                <circle
+   cx="21"
+   cy="453"
+   r="1"
+   style="fill:#171917;"
+   id="circle68" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Equation"
+   transform="matrix(0.674869,0,0,0.68714,0,-80.0331)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect75"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip3">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect77" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip3)"
+   id="g103">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g85">
+                <g
+   id="Icon-Border1"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path80"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path82"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0,-1230.27)"
+   id="g89">
+                <path
+   d="M1,1126.4L54,1126.4"
+   style="fill:none;stroke:#4b4b4b;stroke-width:1px"
+   id="path87"
+   class="borderColor" />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-84.4513,-146.707)"
+   id="g93"
+   class="upsilonBlue"
+   style="">
+                <text
+   x="67.652px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px"
+   id="text91"
+   class="upsilonBlue">x=?</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-89.366,-109.187)"
+   id="g101">
+                <text
+   x="70.552px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px;fill:#ccc;"
+   id="text95">y</text>
+                <text
+   x="81.812px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px;fill:#ccc;"
+   id="text97">=</text>
+                <text
+   x="92.793px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:20px;fill:#ccc;"
+   id="text99">?</text>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Regression"
+   transform="matrix(0.674869,0,0,0.68714,0,4.96689)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect106"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip4">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect108" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip4)"
+   id="g138">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g116">
+                <g
+   id="Icon-Border2"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path111"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path113"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.22246,0,0,1.45531,-189.074,-165.857)"
+   id="g120">
+                <path
+   d="M208,409L168,409L168,380"
+   style="fill:none;stroke:#ccc;stroke-width:2.18px;"
+   id="path118" />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-0.740884,-1354.84)"
+   id="g124">
+                <path
+   d="M18,1220L38,1200"
+   style="fill:none;stroke:#4b4b4b;stroke-width:2px;"
+   id="path122" />
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-282.277,-2871.19)"
+   id="g128"
+   class="upsilonBlue"
+   style="">
+                <circle
+   cx="105"
+   cy="1123"
+   r="1"
+   style=""
+   id="circle126"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-264.302,-2847.99)"
+   id="g132"
+   class="upsilonBlue"
+   style="">
+                <circle
+   cx="105"
+   cy="1123"
+   r="1"
+   style=""
+   id="circle130"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-255.605,-2862.54)"
+   id="g136"
+   class="upsilonBlue"
+   style="">
+                <circle
+   cx="105"
+   cy="1123"
+   r="1"
+   style=""
+   id="circle134"
+   class="upsilonBlue" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Omega"
+   transform="matrix(0.674869,0,0,0.68714,80,89.966881)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect141"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip5">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect143" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip5)"
+   id="g161">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g151">
+                <g
+   id="Icon-Border3"
+   serif:id="Icon Border">
+                    <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
+   style="fill:#2071ed"
+   id="path146" />
+                    <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
+   id="path148"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,0,-1475.79)"
+   id="g155">
+                <path
+   d="m 16,1307 h 7.395 v -4.41 c 0,0 -5.786,-2.82 -5.786,-9.2 0,-6.75 5.586,-9.94 9.891,-9.94"
+   style="fill:none;stroke:#ffffff;stroke-width:4px"
+   id="path153" />
+            </g>
+            <g
+   transform="matrix(-1.48177,0,0,1.45531,81.4973,-1475.79)"
+   id="g159">
+                <path
+   d="m 16,1307 h 7.395 v -4.41 c 0,0 -5.786,-2.82 -5.786,-9.2 0,-6.75 5.586,-9.94 9.891,-9.94"
+   style="fill:none;stroke:#ffffff;stroke-width:4px"
+   id="path157" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Settings"
+   transform="matrix(0.674869,0,0,0.68714,160,4.9668896)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect164"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip6">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect166" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip6)"
+   id="g200">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g174">
+                <g
+   id="Icon-Border4"
+   serif:id="Icon Border">
+                    <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
+   style=""
+   id="path169"
+   class="iconBackground" />
+                    <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
+   style=""
+   id="path171"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(2.22538,0,0,2e-6,-21.5621,392.981)"
+   id="g178">
+                <path
+   d="m 18,1220 20,-20"
+   style="fill:none;stroke:#cccccc;stroke-width:1.88px"
+   id="path176" />
+            </g>
+            <g
+   transform="matrix(2.22538,0,0,2e-6,-21.5621,408.99)"
+   id="g182">
+                <path
+   d="m 18,1220 20,-20"
+   style="fill:none;stroke:#2071ed;stroke-width:1.88px"
+   id="path180"
+   class="borderColor" />
+            </g>
+            <g
+   transform="matrix(2.22538,0,0,2e-6,-21.5621,424.998)"
+   id="g186">
+                <path
+   d="m 18,1220 20,-20"
+   style="fill:#2071ed;stroke:#cccccc;stroke-width:1.88px"
+   id="path184" />
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-271.164,-2843.62)"
+   id="g190">
+                <circle
+   cx="105"
+   cy="1123"
+   r="1"
+   style="stroke:none;stroke-width:1px"
+   id="circle188"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-256.346,-2859.63)"
+   id="g194"
+   class="upsilonBlue">
+                <circle
+   cx="105"
+   cy="1123"
+   r="1"
+   style="stroke:none;stroke-width:1px"
+   id="circle192"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-283.018,-2875.64)"
+   id="g198"
+   class="upsilonBlue"
+   style="stroke:none">
+                <circle
+   cx="105"
+   cy="1123"
+   r="1"
+   style="stroke:none;stroke-width:1px"
+   id="circle196"
+   class="upsilonBlue" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Logo"
+   transform="matrix(0.674419,0,0,0.471429,-114.651,205.629)">
+        <rect
+   x="170"
+   y="512"
+   width="170.9863"
+   height="70"
+   id="rect203"
+   style="stroke-width:0.99705" />
+        <clipPath
+   id="_clip7">
+            <rect
+   x="170"
+   y="512"
+   width="172"
+   height="70"
+   id="rect205" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip7)"
+   id="g212">
+            <g
+   transform="matrix(5.37631,0,0,7.69127,-765.334,-3464.07)"
+   id="g210">
+                <text
+   x="177.38286"
+   y="512.52405"
+   style="font-size:9.7819px;font-family:Righteous-Regular, Righteous;stroke-width:0.97819"
+   id="text208"
+   class="upsilonBlue"
+   transform="scale(0.97819027,1.022296)">Upsilon</text>
+            </g>
+        </g>
+    </g>
+    <g
+   id="External"
+   transform="matrix(0.674869,0,0,0.68714,0,89.966881)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect215"
+   style=""
+   class="calculatorBackground" />
+        <clipPath
+   id="_clip8">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497002"
+   height="81.497002"
+   id="rect217" />
+        </clipPath>
+        <g
+   id="g1417"><g
+     clip-path="url(#_clip8)"
+     id="g243">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g225">
+                <g
+   id="Icon-Border5"
+   serif:id="Icon Border">
+                    <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
+   style=""
+   id="path220"
+   class="iconBackground" />
+                    <path
+   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
+   style=""
+   id="path222"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.24175,0,0,1.21958,-188.38,-1066.09)"
+   id="g229"
+   style="fill:#cccccc;fill-opacity:1">
+                <path
+   d="m 183,1215.25 c 0,-2.35 -1.904,-4.25 -4.25,-4.25 h -8.5 c -2.346,0 -4.25,1.9 -4.25,4.25 v 8.5 c 0,2.35 1.904,4.25 4.25,4.25 h 8.5 c 2.346,0 4.25,-1.9 4.25,-4.25 z"
+   style="fill-opacity:1"
+   id="path227"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(1.24175,0,0,1.21958,-188.38,-1090.48)"
+   id="g233">
+                <path
+   d="m 183,1215.25 c 0,-2.35 -1.904,-4.25 -4.25,-4.25 h -8.5 c -2.346,0 -4.25,1.9 -4.25,4.25 v 8.5 c 0,2.35 1.904,4.25 4.25,4.25 h 8.5 c 2.346,0 4.25,-1.9 4.25,-4.25 z"
+   id="path231"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(1.24175,0,0,1.21958,-163.494,-1066.09)"
+   id="g237">
+                <path
+   d="m 183,1215.25 c 0,-2.35 -1.904,-4.25 -4.25,-4.25 h -8.5 c -2.346,0 -4.25,1.9 -4.25,4.25 v 8.5 c 0,2.35 1.904,4.25 4.25,4.25 h 8.5 c 2.346,0 4.25,-1.9 4.25,-4.25 z"
+   id="path235"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(0.878049,0.86237,-0.878049,0.86237,970.753,-805.349)"
+   id="g241"
+   style="fill:#2071ed;fill-opacity:1">
+                <path
+   d="m 183,1215.25 c 0,-2.35 -1.904,-4.25 -4.25,-4.25 h -8.5 c -2.346,0 -4.25,1.9 -4.25,4.25 v 8.5 c 0,2.35 1.904,4.25 4.25,4.25 h 8.5 c 2.346,0 4.25,-1.9 4.25,-4.25 z"
+   style="fill-opacity:1"
+   id="path239"
+   class="upsilonBlue" />
+            </g>
+        </g></g>
+    </g>
+    <g
+   id="Atom"
+   transform="matrix(0.674869,0,0,0.68714,80,-80.0331)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect246"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip9">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect248" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip9)"
+   id="g274"
+   class="upsilonBlue"
+   style="">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g256">
+                <g
+   id="Icon-Border6"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path251"
+   class="iconBackground" />
+                    <path
+   d="m 55,375.432 c 0,-1.70555 -0.566864,-3.27764 -1.519454,-4.5324 C 52.14207,369.13655 50.042061,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
+   id="path253"
+   class="borderColor"
+   sodipodi:nodetypes="sssssssssssssssssss" />
+                </g>
+            </g>
+            <g
+   transform="matrix(2.96354,0,0,2.91062,-270.423,-2859.63)"
+   id="g260"
+   class="upsilonBlue"
+   style="">
+                <ellipse
+   cx="105"
+   cy="1123"
+   style=""
+   id="circle258"
+   rx="0.99999934"
+   ry="1"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(1.27009,0,0,0.873185,-93.8806,-574.216)"
+   id="g264">
+                <ellipse
+   cx="106"
+   cy="1126"
+   rx="21"
+   ry="10"
+   style="fill:none;stroke:#ccc;stroke-width:2.7px;"
+   id="ellipse262" />
+            </g>
+            <g
+   transform="matrix(0.635044,-1.08029,0.769949,0.436592,-893.529,31.897)"
+   id="g268">
+                <ellipse
+   cx="106"
+   cy="1126"
+   rx="21"
+   ry="10"
+   style="fill:none;stroke:#ccc;stroke-width:2.7px;"
+   id="ellipse266" />
+            </g>
+            <g
+   transform="matrix(-0.635044,-1.08029,0.769949,-0.436592,-758.9,1015.1)"
+   id="g272">
+                <ellipse
+   cx="106"
+   cy="1126"
+   rx="21"
+   ry="10"
+   style="fill:none;stroke:#ccc;stroke-width:2.7px;"
+   id="ellipse270" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Sequence"
+   transform="matrix(0.674869,0,0,0.68714,160,-80.0331)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect277"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip10">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect279" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip10)"
+   id="g297">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g287">
+                <g
+   id="Icon-Border7"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path282"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path284"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-237.394,-1230.83)"
+   id="g291"
+   class="upsilonBlue"
+   style="">
+                <path
+   d="M203.21,1140.79L171.21,1140.79L171.21,1132.79L179.21,1132.79L179.21,1126.79L187.21,1126.79L187.21,1120.79L195.21,1120.79L195.21,1114.79L203.21,1114.79L203.21,1140.79Z"
+   style=""
+   id="path289"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(1.22246,0,0,1.45531,-189.074,-164.402)"
+   id="g295">
+                <path
+   d="M208,409L168,409L168,380"
+   style="fill:none;stroke:#ccc;stroke-width:2.18px;"
+   id="path293" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Statistics"
+   transform="matrix(0.674869,0,0,0.68714,80,-166.033)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect300"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip11">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect302" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip11)"
+   id="g324">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g310">
+                <g
+   id="Icon-Border8"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path305"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096C47.683,419.096 12.014,419.096 12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path307"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-117.06,-275.005)"
+   id="g314"
+   class="upsilonBlue"
+   style="">
+                <rect
+   x="101"
+   y="455"
+   width="11"
+   height="33"
+   style=""
+   id="rect312"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.10251,-97.7967,-102.838)"
+   id="g318">
+                <rect
+   x="101"
+   y="455"
+   width="11"
+   height="33"
+   style="stroke:none"
+   id="rect316"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,0.727654,-136.323,80.0901)"
+   id="g322">
+                <rect
+   x="101"
+   y="455"
+   width="11"
+   height="33"
+   style="stroke:none"
+   id="rect320"
+   class="Grey " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Probability"
+   transform="matrix(0.674869,0,0,0.68714,160,-166.033)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect327"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip12">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect329" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip12)"
+   id="g347">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g337">
+                <g
+   id="Icon-Border9"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path332"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096C47.683,419.096 12.014,419.096 12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path334"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-235.601,-272.822)"
+   id="g341">
+                <path
+   d="M167,486C167,486 174.774,481.338 176,469.5C176.808,461.7 179.251,457 185,457L185,486L167,486Z"
+   style="stroke:none;stroke-width:1px"
+   id="path339"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(-1.48177,0,0,1.45531,317.098,-272.822)"
+   id="g345"
+   class="upsilonBlue"
+   style="">
+                <path
+   d="M167,486C167,486 174.774,481.338 176,469.5C176.808,461.7 179.251,457 185,457L185,486L167,486Z"
+   style="stroke:none;stroke-width:1px"
+   id="path343"
+   class="upsilonBlue" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="RPN"
+   transform="matrix(0.674869,0,0,0.68714,80,-253.033)"
+   inkscape:export-filename="C:\Users\hugob\Desktop\RPN.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect350"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip13">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect352" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip13)"
+   id="g382">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g360">
+                <g
+   id="Icon-Border10"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path355"
+   class="iconBackground" />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path357"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(2.85577,0,0,1.03951,-77.052,7.53263)"
+   id="g364">
+                <path
+   d="M55,396L27.5,396L27.5,414.2C27.5,419.609 29.127,424 31.132,424L51.368,424C53.373,424 55,419.609 55,414.2L55,396Z"
+   style="stroke:none"
+   id="path362"
+   class="Grey " />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-97.7967,-168.04)"
+   id="g368">
+                <path
+   d="M67,403L120,403"
+   style="fill:none;stroke:#4b4b4b;stroke-width:1px;"
+   id="path366" />
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-74.9332,-154.214)"
+   id="g372">
+                <text
+   x="90.797px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:16px"
+   id="text370"
+   class="upsilonBlue">0</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-75.0953,-133.292)"
+   id="g376">
+                <text
+   x="86.14px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:16px"
+   id="text374"
+   class="upsilonBlue">16</text>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-75.0722,-104.994)"
+   id="g380">
+                <text
+   x="77.476px"
+   y="375.263px"
+   style="font-family:'Righteous-Regular', 'Righteous';font-size:16px;fill:#171917;"
+   id="text378">215</text>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Functions"
+   transform="matrix(0.674869,0,0,0.68714,160,-253.033)">
+        <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect385"
+   class="calculatorBackground"
+   style="" />
+        <clipPath
+   id="_clip14">
+            <rect
+   x="0"
+   y="368.241"
+   width="81.497"
+   height="81.497"
+   id="rect387" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip14)"
+   id="g405">
+            <g
+   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+   id="g395">
+                <g
+   id="Icon-Border11"
+   serif:id="Icon Border">
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432Z"
+   style=""
+   id="path390"
+   class="iconBackground " />
+                    <path
+   d="M55,375.432C55,371.33 51.721,368 47.683,368L12.014,368C7.975,368 4.697,371.33 4.697,375.432L4.697,412.593C4.697,416.695 7.975,420.025 12.014,420.025L47.683,420.025C51.721,420.025 55,416.695 55,412.593L55,375.432ZM54.085,375.432L54.085,412.593C54.085,416.182 51.217,419.096 47.683,419.096L12.014,419.096C8.48,419.096 5.611,416.182 5.611,412.593L5.611,375.432C5.611,371.843 8.48,368.929 12.014,368.929L47.683,368.929C51.217,368.929 54.085,371.843 54.085,375.432Z"
+   style=""
+   id="path392"
+   class="borderColor" />
+                </g>
+            </g>
+            <g
+   transform="matrix(1.48177,0,0,1.45531,-237.083,-167.312)"
+   id="g399">
+                <path
+   d="M171,410.5C171,410.5 174.314,386 199,386L199,410.5L171,410.5Z"
+   style=""
+   id="path397"
+   class="upsilonBlue" />
+            </g>
+            <g
+   transform="matrix(1.22246,0,0,1.45531,-189.074,-164.402)"
+   id="g403">
+                <path
+   d="M208,409L168,409L168,380"
+   style="fill:none;stroke:#ccc;stroke-width:2.18px;"
+   id="path401" />
+            </g>
+        </g>
+    </g>
+    <a
+   id="a1460"><g
+     id="Binomial"
+     transform="matrix(1.27273,0,0,1.26667,273,-597.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect408" />
+        <clipPath
+   id="_clip15">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect410" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip15)"
+   id="g483">
+            <g
+   id="g481"
+   class="upsilonBlue"
+   style="">
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,99.3684)"
+   id="g415">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,0.789474,27.5,99.3684)"
+   id="g419"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,1.57895,1.57143,-288.263)"
+   id="g423"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,1.57895,25.9286,-288.263)"
+   id="g427"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,2.36842,3.14286,-675.895)"
+   id="g431"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,2.36842,24.3571,-675.895)"
+   id="g435">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,4.73684,4.71429,-1838.79)"
+   id="g439"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,4.73684,22.7857,-1838.79)"
+   id="g443"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,7.89474,6.28571,-3389.32)"
+   id="g447"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,7.89474,21.2143,-3389.32)"
+   id="g451"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,10.2632,7.85714,-4552.21)"
+   id="g455"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,10.2632,19.6429,-4552.21)"
+   id="g459"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,12.6316,9.42857,-5715.11)"
+   id="g463"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,12.6316,18.0714,-5715.11)"
+   id="g467"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,14.2105,11,-6490.37)"
+   id="g471"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,14.2105,16.5,-6490.37)"
+   id="g475"
+   class="probabilityColor"
+   style="">
+
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,15,12.5714,-6878)"
+   id="g479"
+   class="probabilityColor"
+   style="">
+                    <g
+   id="g1458"><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect413"
+     class="probabilityColor "
+     transform="matrix(1,0,0,0.0526316,-15.999969,465.15789)" /><rect
+     x="1"
+     y="490"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect417"
+     width="0.99999821"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.0526316,19.000038,465.15789)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect421"
+     class="probabilityColor"
+     transform="matrix(1,0,0,0.10526333,-13.999963,439.3158)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect425"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.10526333,17.000082,439.3158)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect429"
+     class="probabilityColor"
+     transform="matrix(1,0,0,0.15789467,-11.999967,413.47367)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect433"
+     class="probabilityColor "
+     transform="matrix(-1,0,0,0.15789467,14.999985,413.47367)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect437"
+     class="probabilityColor"
+     transform="matrix(1,0,0,0.31578933,-9.9999601,335.94733)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect441"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.31578933,13.000019,335.94733)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect445"
+     class="probabilityColor"
+     transform="matrix(1,0,0,0.52631598,-7.9999737,232.57866)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect449"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.52631598,11.000063,232.57866)" /><rect
+     x="1"
+     y="490"
+     height="1"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect453"
+     class="probabilityColor"
+     width="0.99999821"
+     transform="matrix(1,0,0,0.68421336,-5.9999672,155.05267)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect457"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.68421336,9.0000961,155.05267)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect461"
+     class="probabilityColor"
+     transform="matrix(1,0,0,0.84210668,-3.9999708,77.525999)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect465"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.84210668,6.9999996,77.525999)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect469"
+     class="probabilityColor"
+     transform="matrix(1,0,0,0.94736666,-1.9999644,25.841998)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect473"
+     class="probabilityColor"
+     transform="matrix(-1,0,0,0.94736666,5.0000332,25.841998)" /><rect
+     x="1"
+     y="490"
+     width="1"
+     height="1"
+     style=""
+     id="rect477"
+     class="probabilityColor" /></g>
+                </g>
+            </g>
+        </g>
+    </g></a>
+    <g
+   id="Binomial-Focused"
+   serif:id="Binomial Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-597.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect486" />
+        <clipPath
+   id="_clip16">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect488" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip16)"
+   id="g560">
+            <g
+   id="Binomial1"
+   serif:id="Binomial">
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,99.3684)"
+   id="g493">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect491"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,0.789474,27.5,99.3684)"
+   id="g497">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect495"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,1.57895,1.57143,-288.263)"
+   id="g501">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect499"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,1.57895,25.9286,-288.263)"
+   id="g505">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect503"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,2.36842,3.14286,-675.895)"
+   id="g509">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect507"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,2.36842,24.3571,-675.895)"
+   id="g513">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect511"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,4.73684,4.71429,-1838.79)"
+   id="g517">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect515"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,4.73684,22.7857,-1838.79)"
+   id="g521">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect519"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,7.89474,6.28571,-3389.32)"
+   id="g525">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect523"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,7.89474,21.2143,-3389.32)"
+   id="g529">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect527"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,10.2632,7.85714,-4552.21)"
+   id="g533">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect531"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,10.2632,19.6429,-4552.21)"
+   id="g537">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect535"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,12.6316,9.42857,-5715.11)"
+   id="g541">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect539"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,12.6316,18.0714,-5715.11)"
+   id="g545">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect543"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,14.2105,11,-6490.37)"
+   id="g549">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect547"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,14.2105,16.5,-6490.37)"
+   id="g553">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect551"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,15,12.5714,-6878)"
+   id="g557">
+                    <rect
+   x="1"
+   y="490"
+   width="1"
+   height="1"
+   style=""
+   id="rect555"
+   class="probabilityColor" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Chi-Squared"
+   serif:id="Chi Squared"
+   transform="matrix(1.27273,0,0,1.26667,273,-568.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect563" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,53.5789)"
+   id="g567"
+   class="probabilityColor"
+   style="">
+            <path
+   d="M0,543C0,543 1.512,537 6,537C10.488,537 20.504,548 35,548L35,549L0,549L0,543"
+   style=""
+   id="path565"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Chi-Squared-Focused"
+   serif:id="Chi Squared Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-568.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect570" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,53.5789)"
+   id="g575">
+            <g
+   id="Chi-Squared1"
+   serif:id="Chi Squared">
+                <path
+   d="M0,543C0,543 1.512,537 6,537C10.488,537 20.504,548 35,548L35,549L0,549L0,543"
+   style=""
+   id="path572"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Exponential"
+   transform="matrix(1.27273,0,0,1.26667,273,-539.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect578" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
+   id="g582">
+            <path
+   d="M35,519L35,520L0,520L0,501L1,501C1,501 0.644,509.136 12,514C23.356,518.864 35,519 35,519Z"
+   style=""
+   id="path580"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Exponential-Focused"
+   serif:id="Exponential Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-539.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect585" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
+   id="g590">
+            <g
+   id="Exponential1"
+   serif:id="Exponential">
+                <path
+   d="M35,519L35,520L0,520L0,501L1,501C1,501 0.644,509.136 12,514C23.356,518.864 35,519 35,519Z"
+   style=""
+   id="path587"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Fisher"
+   transform="matrix(1.27273,0,0,1.26667,273,-510.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect593" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
+   id="g597">
+            <path
+   d="M0,578C0,578 1.751,562 4,562C6.249,562 4.362,567.694 11,572C17.638,576.306 28.257,578 32,578C35.743,578 0,578 0,578Z"
+   style=""
+   id="path595"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Fisher-Focused"
+   serif:id="Fisher Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-510.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect600" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
+   id="g605">
+            <g
+   id="Fisher1"
+   serif:id="Fisher">
+                <path
+   d="M0,578C0,578 1.751,562 4,562C6.249,562 4.362,567.694 11,572C17.638,576.306 28.257,578 32,578C35.743,578 0,578 0,578Z"
+   style=""
+   id="path602"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Geometric"
+   transform="matrix(1.27273,0,0,1.26667,273,-481.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect608" />
+        <clipPath
+   id="_clip17">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect610" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip17)"
+   id="g687">
+            <g
+   id="g685">
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g615">
+                    <rect
+   x="0"
+   y="589"
+   width="1"
+   height="18"
+   style=""
+   id="rect613"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g619">
+                    <rect
+   x="2"
+   y="592"
+   width="1"
+   height="15"
+   style=""
+   id="rect617"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g623">
+                    <rect
+   x="4"
+   y="595"
+   width="1"
+   height="12"
+   style=""
+   id="rect621"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.831025,0,-17.4321)"
+   id="g627">
+                    <rect
+   x="6"
+   y="597.5"
+   width="1"
+   height="9.5"
+   style=""
+   id="rect625"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g631">
+                    <rect
+   x="8"
+   y="599"
+   width="1"
+   height="8"
+   style=""
+   id="rect629"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g635">
+                    <rect
+   x="10"
+   y="601"
+   width="1"
+   height="6"
+   style=""
+   id="rect633"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g639">
+                    <rect
+   x="12"
+   y="602"
+   width="1"
+   height="5"
+   style=""
+   id="rect637"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g643">
+                    <rect
+   x="14"
+   y="603"
+   width="1"
+   height="4"
+   style=""
+   id="rect641"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g647">
+                    <rect
+   x="16"
+   y="604"
+   width="1"
+   height="3"
+   style=""
+   id="rect645"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g651">
+                    <rect
+   x="18"
+   y="604"
+   width="1"
+   height="3"
+   style=""
+   id="rect649"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g655">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect653"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,1.57143,7.78947)"
+   id="g659">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect657"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,3.14286,7.78947)"
+   id="g663">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect661"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,4.71429,7.78947)"
+   id="g667">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect665"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,6.28571,7.78947)"
+   id="g671">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect669"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,7.85714,7.78947)"
+   id="g675">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect673"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,9.42857,7.78947)"
+   id="g679">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect677"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.986842,-1.57143,-112.013)"
+   id="g683">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect681"
+   class="probabilityColor" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Geometric-Focused"
+   serif:id="Geometric Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-481.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect690" />
+        <clipPath
+   id="_clip18">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect692" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip18)"
+   id="g768">
+            <g
+   id="Geometric1"
+   serif:id="Geometric">
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g697">
+                    <rect
+   x="0"
+   y="589"
+   width="1"
+   height="18"
+   style=""
+   id="rect695"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g701">
+                    <rect
+   x="2"
+   y="592"
+   width="1"
+   height="15"
+   style=""
+   id="rect699"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g705">
+                    <rect
+   x="4"
+   y="595"
+   width="1"
+   height="12"
+   style=""
+   id="rect703"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.831025,0,-17.4321)"
+   id="g709">
+                    <rect
+   x="6"
+   y="597.5"
+   width="1"
+   height="9.5"
+   style=""
+   id="rect707"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g713">
+                    <rect
+   x="8"
+   y="599"
+   width="1"
+   height="8"
+   style=""
+   id="rect711"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g717">
+                    <rect
+   x="10"
+   y="601"
+   width="1"
+   height="6"
+   style=""
+   id="rect715"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g721">
+                    <rect
+   x="12"
+   y="602"
+   width="1"
+   height="5"
+   style=""
+   id="rect719"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g725">
+                    <rect
+   x="14"
+   y="603"
+   width="1"
+   height="4"
+   style=""
+   id="rect723"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g729">
+                    <rect
+   x="16"
+   y="604"
+   width="1"
+   height="3"
+   style=""
+   id="rect727"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g733">
+                    <rect
+   x="18"
+   y="604"
+   width="1"
+   height="3"
+   style=""
+   id="rect731"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
+   id="g737">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect735"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,1.57143,7.78947)"
+   id="g741">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect739"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,3.14286,7.78947)"
+   id="g745">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect743"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,4.71429,7.78947)"
+   id="g749">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect747"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,6.28571,7.78947)"
+   id="g753">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect751"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,7.85714,7.78947)"
+   id="g757">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect755"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,9.42857,7.78947)"
+   id="g761">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect759"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.986842,-1.57143,-112.013)"
+   id="g765">
+                    <rect
+   x="22"
+   y="605"
+   width="1"
+   height="2"
+   style=""
+   id="rect763"
+   class="probabilityColor " />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Normal"
+   transform="matrix(1.27273,0,0,1.26667,273,-452.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect771" />
+        <clipPath
+   id="_clip19">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect773" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip19)"
+   id="g780">
+            <g
+   transform="matrix(0.785714,0,0,0.789474,0,-15.1053)"
+   id="g778">
+                <path
+   d="M17.5,617C18.798,617 21.141,616.966 24.5,626.5C27.543,635.139 35,635 35,635L35,636L0,636L0,635C0,635 7.457,635.139 10.5,626.5C13.859,616.966 16.202,617 17.5,617Z"
+   style=""
+   id="path776"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Normal-Focused"
+   serif:id="Normal Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-452.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect783" />
+        <clipPath
+   id="_clip20">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect785" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip20)"
+   id="g793">
+            <g
+   transform="matrix(0.785714,0,0,0.789474,0,-15.1053)"
+   id="g791">
+                <g
+   id="Normal1"
+   serif:id="Normal">
+                    <path
+   d="M17.5,617C18.798,617 21.141,616.966 24.5,626.5C27.543,635.139 35,635 35,635L35,636L0,636L0,635C0,635 7.457,635.139 10.5,626.5C13.859,616.966 16.202,617 17.5,617Z"
+   style=""
+   id="path788"
+   class="probabilityColor " />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Poisson"
+   transform="matrix(1.27273,0,0,1.26667,273,-423.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect796" />
+        <clipPath
+   id="_clip21">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect798" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip21)"
+   id="g875">
+            <g
+   id="g873">
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,-38)"
+   id="g803">
+                    <rect
+   x="0"
+   y="664"
+   width="1"
+   height="1"
+   style=""
+   id="rect801"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,0.789474,27.5,-38)"
+   id="g807">
+                    <rect
+   x="0"
+   y="664"
+   width="1"
+   height="1"
+   style=""
+   id="rect805"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,-38)"
+   id="g811">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect809"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,0.789474,27.5,-38)"
+   id="g815">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect813"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,1.18421,1.57143,-300.5)"
+   id="g819">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect817"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,1.18421,25.9286,-300.5)"
+   id="g823">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect821"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,1.97368,3.14286,-825.5)"
+   id="g827">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect825"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,1.97368,24.3571,-825.5)"
+   id="g831">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect829"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,3.15789,4.71429,-1613)"
+   id="g835">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect833"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,3.15789,22.7857,-1613)"
+   id="g839">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect837"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,4.34211,6.28571,-2400.5)"
+   id="g843">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect841"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,4.34211,21.2143,-2400.5)"
+   id="g847">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect845"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,5.52632,7.85714,-3188)"
+   id="g851">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect849"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,5.52632,19.6429,-3188)"
+   id="g855">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect853"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,6.31579,9.42857,-3713)"
+   id="g859">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect857"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,6.31579,18.0714,-3713)"
+   id="g863">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect861"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,7.5,11,-4500.5)"
+   id="g867">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect865"
+   class="probabilityColor " />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,7.5,16.5,-4500.5)"
+   id="g871">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect869"
+   class="probabilityColor " />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Poisson-Focused"
+   serif:id="Poisson Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-423.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect878" />
+        <clipPath
+   id="_clip22">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect880" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip22)"
+   id="g956">
+            <g
+   id="Poisson1"
+   serif:id="Poisson">
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,-38)"
+   id="g885">
+                    <rect
+   x="0"
+   y="664"
+   width="1"
+   height="1"
+   style=""
+   id="rect883"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,0.789474,27.5,-38)"
+   id="g889">
+                    <rect
+   x="0"
+   y="664"
+   width="1"
+   height="1"
+   style=""
+   id="rect887"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,0.789474,0,-38)"
+   id="g893">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect891"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,0.789474,27.5,-38)"
+   id="g897">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect895"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,1.18421,1.57143,-300.5)"
+   id="g901">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect899"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,1.18421,25.9286,-300.5)"
+   id="g905">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect903"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,1.97368,3.14286,-825.5)"
+   id="g909">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect907"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,1.97368,24.3571,-825.5)"
+   id="g913">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect911"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,3.15789,4.71429,-1613)"
+   id="g917">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect915"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,3.15789,22.7857,-1613)"
+   id="g921">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect919"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,4.34211,6.28571,-2400.5)"
+   id="g925">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect923"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,4.34211,21.2143,-2400.5)"
+   id="g929">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect927"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,5.52632,7.85714,-3188)"
+   id="g933">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect931"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,5.52632,19.6429,-3188)"
+   id="g937">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect935"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,6.31579,9.42857,-3713)"
+   id="g941">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect939"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,6.31579,18.0714,-3713)"
+   id="g945">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect943"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(0.785714,0,0,7.5,11,-4500.5)"
+   id="g949">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect947"
+   class="probabilityColor" />
+                </g>
+                <g
+   transform="matrix(-0.785714,0,0,7.5,16.5,-4500.5)"
+   id="g953">
+                    <rect
+   x="2"
+   y="663"
+   width="1"
+   height="2"
+   style=""
+   id="rect951"
+   class="probabilityColor" />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Student"
+   transform="matrix(1.27273,0,0,1.26667,273,-394.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect959" />
+        <clipPath
+   id="_clip23">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect961" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip23)"
+   id="g968">
+            <g
+   transform="matrix(0.785714,0,0,0.789474,0,-60.8947)"
+   id="g966">
+                <path
+   d="M0,694C0,694 11.784,693.154 13.5,685.5C15.25,677.692 16.129,675 17.5,675L17.532,675C18.9,675.027 19.756,677.753 21.5,685.5C23.223,693.153 35,694 35,694L0,694Z"
+   style=""
+   id="path964"
+   class="probabilityColor" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Student-Focused"
+   serif:id="Student Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-394.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect971" />
+        <clipPath
+   id="_clip24">
+            <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect973" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip24)"
+   id="g981">
+            <g
+   transform="matrix(0.785714,0,0,0.789474,0,-60.8947)"
+   id="g979">
+                <g
+   id="Student1"
+   serif:id="Student">
+                    <path
+   d="M0,694C0,694 11.784,693.154 13.5,685.5C15.25,677.692 16.129,675 17.5,675L17.532,675C18.9,675.027 19.756,677.753 21.5,685.5C23.223,693.153 35,694 35,694L0,694Z"
+   style=""
+   id="path976"
+   class="probabilityColor " />
+                </g>
+            </g>
+        </g>
+    </g>
+    <g
+   id="Uniform"
+   transform="matrix(1.27273,0,0,1.26667,273,-365.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   id="rect984" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,-83.7895)"
+   id="g988">
+            <path
+   d="M0,722L7,722L7,711L29,711L29,722L35,722L35,723L28,723L28,712L19,712L19,723L0,723L0,722Z"
+   style=""
+   id="path986"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Uniform-Focused"
+   serif:id="Uniform Focused"
+   transform="matrix(1.27273,0,0,1.26667,327,-365.867)">
+        <rect
+   x="0"
+   y="472"
+   width="27.5"
+   height="15"
+   style="fill:#1f1f1f;"
+   id="rect991" />
+        <g
+   transform="matrix(0.785714,0,0,0.789474,0,-83.7895)"
+   id="g996">
+            <g
+   id="Uniform1"
+   serif:id="Uniform">
+                <path
+   d="M0,722L7,722L7,711L29,711L29,722L35,722L35,723L28,723L28,712L19,712L19,723L0,723L0,722Z"
+   style=""
+   id="path993"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Calcul-1"
+   serif:id="Calcul 1"
+   transform="matrix(0.896471,0,0,0.9021,273,-398.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   id="rect999" />
+        <g
+   transform="matrix(1.11549,0,0,1.10852,0,-81.0445)"
+   id="g1003">
+            <path
+   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C23.872,740.698 22.975,738.362 22.045,737.255C21.013,736.027 20,736.245 20,736.245L20,754Z"
+   style=""
+   id="path1001"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Calcul-1-Focused"
+   serif:id="Calcul 1 Focused"
+   transform="matrix(0.896471,0,0,0.9021,327,-398.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   style="fill:#1f1f1f;"
+   id="rect1006" />
+        <g
+   transform="matrix(1.11549,0,0,1.10852,-0.557743,-81.0445)"
+   id="g1011">
+            <g
+   id="Calcul-11"
+   serif:id="Calcul 1">
+                <path
+   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C23.872,740.698 22.975,738.362 22.045,737.255C21.013,736.027 20,736.245 20,736.245L20,754Z"
+   style=""
+   id="path1008"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Calcul-4"
+   serif:id="Calcul 4"
+   transform="matrix(0.896471,0,0,0.9021,273,-299.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   id="rect1014" />
+        <g
+   transform="matrix(1.11549,0,0,1.10852,0,-190.788)"
+   id="g1018">
+            <path
+   d="M19.998,835.246C19.907,835.246 17.199,834.764 15.118,843.5C13.018,852.667 4,853 4,853L4,852C4,852 12.063,851.522 14,843.5C15.922,835.54 18.018,834.023 20,834L20.006,834C21.994,834.03 24.082,835.556 26,843.5C27.937,851.522 36,852 36,852L36,853C36,853 26.982,852.667 24.882,843.5C24.279,841.23 23.814,839.585 23.189,838.391L23.189,853.001L22.189,853.001L22.189,836.799C21.251,835.133 20,835.245 20,835.245L19.998,835.246Z"
+   style=""
+   id="path1016"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Calcul-4-Focused"
+   serif:id="Calcul 4 Focused"
+   transform="matrix(0.896471,0,0,0.9021,327,-299.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   style="fill:#1f1f1f;"
+   id="rect1021" />
+        <g
+   transform="matrix(1.11549,0,0,1.10852,-0.557743,-190.789)"
+   id="g1026">
+            <g
+   id="Calcul-41"
+   serif:id="Calcul 4">
+                <path
+   d="M19.998,835.246C19.907,835.246 17.199,834.764 15.118,843.5C13.018,852.667 4,853 4,853L4,852C4,852 12.063,851.522 14,843.5C15.922,835.54 18.018,834.023 20,834L20.006,834C21.994,834.03 24.082,835.556 26,843.5C27.937,851.522 36,852 36,852L36,853C36,853 26.982,852.667 24.882,843.5C24.279,841.23 23.814,839.585 23.189,838.391L23.189,853.001L22.189,853.001L22.189,836.799C21.251,835.133 20,835.245 20,835.245L19.998,835.246Z"
+   style=""
+   id="path1023"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Exam"
+   transform="matrix(0.413756,0,0,0.352996,273,134.782)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   style="fill:#2071ed;"
+   id="rect1029" />
+        <clipPath
+   id="_clip25">
+            <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   id="rect1031" />
+        </clipPath>
+        <g
+   clip-path="url(#_clip25)"
+   id="g1046">
+            <g
+   transform="matrix(2.41689,0,0,2.8329,-2.41689,-1718.95)"
+   id="g1036">
+                <path
+   d="M10,865L18,868L10,871L2,868L10,865Z"
+   style="fill:#fff;"
+   id="path1034" />
+            </g>
+            <g
+   transform="matrix(2.41689,0,0,2.8329,-2.41689,-1718.95)"
+   id="g1040">
+                <path
+   d="M2,869L4,869.5L3,873L1,872L2,869Z"
+   style="fill:#fff;"
+   id="path1038" />
+            </g>
+            <g
+   transform="matrix(2.41689,0,0,2.8329,-2.41689,-1718.95)"
+   id="g1044">
+                <path
+   d="M5,870L9,872L11,872L15,870L15,872L11,874L9,874L5,872L5,870"
+   style="fill:#fff;"
+   id="path1042" />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Calcul-3"
+   serif:id="Calcul 3"
+   transform="matrix(0.896471,0,0,0.9021,273,-332.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   id="rect1049" />
+        <g
+   transform="matrix(-1.11549,0,0,1.10852,44.6194,-81.0445)"
+   id="g1053">
+            <path
+   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C22.816,735.481 20,736.245 20,736.245L20,754Z"
+   style=""
+   id="path1051"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Calcul-3-Focused"
+   serif:id="Calcul 3 Focused"
+   transform="matrix(0.896471,0,0,0.9021,327,-332.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   style="fill:#1f1f1f;"
+   id="rect1056" />
+        <g
+   transform="matrix(-1.11549,0,0,1.10852,44.0617,-81.0445)"
+   id="g1061">
+            <g
+   id="Calcul-31"
+   serif:id="Calcul 3">
+                <path
+   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C22.816,735.481 20,736.245 20,736.245L20,754Z"
+   style=""
+   id="path1058"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+    <g
+   id="Calcul-2"
+   serif:id="Calcul 2"
+   transform="matrix(0.896471,0,0,0.9021,273,-365.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   id="rect1064" />
+        <g
+   transform="matrix(1.11549,0,0,1.10852,0,-117.626)"
+   id="g1068">
+            <path
+   d="M16,774.336C15.7,775.15 15.403,776.426 15.118,777.5C13.018,786.667 4,787 4,787L4,786C4,786 12.063,785.522 14,777.5C15.922,769.54 18.018,768.023 20,768L20.023,768.001C22.03,768.048 24.093,769.602 26,777.5C27.937,785.522 36,786 36,786L36,787C36,787 26.982,786.667 24.882,777.5C24.597,776.425 24.3,775.149 24,774.336L24,787L16,787L16,774.336Z"
+   style=""
+   id="path1066"
+   class="probabilityColor" />
+        </g>
+    </g>
+    <g
+   id="Calcul-2-Focused"
+   serif:id="Calcul 2 Focused"
+   transform="matrix(0.896471,0,0,0.9021,327,-365.89)">
+        <rect
+   x="0"
+   y="731.504"
+   width="43.504"
+   height="25.496"
+   style="fill:#1f1f1f;"
+   id="rect1071" />
+        <g
+   transform="matrix(1.11549,0,0,1.10852,-0.557743,-117.626)"
+   id="g1076">
+            <g
+   id="Calcul-21"
+   serif:id="Calcul 2">
+                <path
+   d="M16,774.336C15.7,775.15 15.403,776.426 15.118,777.5C13.018,786.667 4,787 4,787L4,786C4,786 12.063,785.522 14,777.5C15.922,769.54 18.018,768.023 20,768L20.023,768.001C22.03,768.048 24.093,769.602 26,777.5C27.937,785.522 36,786 36,786L36,787C36,787 26.982,786.667 24.882,777.5C24.597,776.425 24.3,775.149 24,774.336L24,787L16,787L16,774.336Z"
+   style=""
+   id="path1073"
+   class="probabilityColor " />
+            </g>
+        </g>
+    </g>
+<rect
+   style="clip-rule:evenodd;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.469509;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+   id="rect20729-6"
+   width="34.549713"
+   height="1.7406615"
+   x="167.1978"
+   y="384.48123" /><g
+   id="g24343"
+   transform="translate(-80.000161,-84.000349)"><rect
+     x="118.54176"
+     y="490.48734"
+     width="81.497002"
+     height="81.497002"
+     id="rect164-4"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     transform="matrix(0.674869,0,0,0.68714,80,4.96689)"
+     class="calculatorBackground" /><g
+     id="g24121"><g
+       id="Settings-8-6"
+       transform="matrix(0.674869,0,0,0.68714,160.00001,88.966894)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"><clipPath
+         id="clipPath1421-1"><rect
+           x="0"
+           y="368.241"
+           width="81.497002"
+           height="81.497002"
+           id="rect1419-6" /></clipPath><g
+         clip-path="url(#_clip6-8-3)"
+         id="g200-5-7"><g
+           transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
+           id="g174-6-8"><g
+             id="Icon-Border4-2-3"
+             serif:id="Icon Border"><path
+               d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
+               style=""
+               id="path169-6-0"
+               class="iconBackground" /><path
+               d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
+               style=""
+               id="path171-7-0"
+               class="borderColor" /></g></g><g
+           transform="matrix(2.22538,0,0,2e-6,-21.5621,392.981)"
+           id="g178-5-1"><path
+             d="m 18,1220 20,-20"
+             style="fill:none;stroke:#cccccc;stroke-width:1.88px"
+             id="path176-5-8" /></g><g
+           transform="matrix(2.22538,0,0,2e-6,-21.5621,408.99)"
+           id="g182-0-9"><path
+             d="m 18,1220 20,-20"
+             style="fill:none;stroke:#2071ed;stroke-width:1.88px"
+             id="path180-0-2"
+             class="borderColor" /></g><g
+           transform="matrix(2.22538,0,0,2e-6,-21.5621,424.998)"
+           id="g186-5-1"><path
+             d="m 18,1220 20,-20"
+             style="fill:#2071ed;stroke:#cccccc;stroke-width:1.88px"
+             id="path184-2-4" /></g><g
+           transform="matrix(2.96354,0,0,2.91062,-256.346,-2859.63)"
+           id="g194-1-5"
+           class="upsilonBlue" /></g></g><g
+       id="g24078"><g
+         id="g18003"
+         transform="translate(2.3478155,-0.55242718)"><a
+           id="a17997"><ellipse
+             style="fill:none;stroke:#2071ed;stroke-width:2.3;stroke-miterlimit:1.5;stroke-dasharray:none"
+             id="path16993"
+             ry="8.2864075"
+             rx="8.4935675"
+             cy="365.43057"
+             cx="192.31371" /></a><rect
+           style="fill:none;stroke:#2071ed;stroke-width:2.3;stroke-miterlimit:1.5;stroke-dasharray:none"
+           id="rect17039"
+           width="0.53710938"
+           height="12.255859"
+           x="-33.135117"
+           y="420.15619"
+           transform="rotate(-32.26592)" /></g><g
+         id="g23092"
+         class="Grey"><rect
+           style="fill-opacity:1;stroke:none;stroke-width:0.510998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729"
+           width="40.925598"
+           height="1.7406615"
+           x="167.1978"
+           y="387.96255"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.510998;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9"
+           width="40.925602"
+           height="1.7406615"
+           x="167.1978"
+           y="384.48123"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.464841;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6"
+           width="33.866119"
+           height="1.7406615"
+           x="167.1978"
+           y="380.99991"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.447076;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9"
+           width="31.327057"
+           height="1.7406615"
+           x="167.1978"
+           y="377.51859"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.169631;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2"
+           width="4.5098758"
+           height="1.7406615"
+           x="203.61353"
+           y="356.63065"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.141603;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-6"
+           width="3.1426883"
+           height="1.7406615"
+           x="204.98071"
+           y="360.11197"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.127074;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-1"
+           width="2.5308607"
+           height="1.7406615"
+           x="205.59254"
+           y="363.59329"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.13475;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-4"
+           width="2.8458674"
+           height="1.7406615"
+           x="205.27753"
+           y="367.07462"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.169631;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-9"
+           width="4.5098758"
+           height="1.7406615"
+           x="203.61353"
+           y="370.55594"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.15424;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-94"
+           width="3.7286258"
+           height="1.7406615"
+           x="204.39478"
+           y="374.03726"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.112987;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-22"
+           width="2.0008247"
+           height="1.7406615"
+           x="206.12257"
+           y="377.51859"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0571062;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-2-2-37"
+           width="0.51111668"
+           height="1.7406615"
+           x="207.61229"
+           y="380.99991"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.367528;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-3"
+           width="21.170807"
+           height="1.7406615"
+           x="167.1978"
+           y="374.03726"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.33932;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-7"
+           width="18.045807"
+           height="1.7406615"
+           x="167.1978"
+           y="370.55594"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.322371;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-8"
+           width="16.287994"
+           height="1.7406615"
+           x="167.1978"
+           y="367.07462"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.316519;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-4"
+           width="15.702057"
+           height="1.7406615"
+           x="167.1978"
+           y="363.59329"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.323336;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-12"
+           width="16.385651"
+           height="1.7406615"
+           x="167.1978"
+           y="360.11197"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.342973;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-6"
+           width="18.436432"
+           height="1.7406615"
+           x="167.1978"
+           y="356.63065"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.510822;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-9"
+           width="40.897461"
+           height="1.7406615"
+           x="167.1978"
+           y="353.14932"
+           class="Grey" /><rect
+           style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.510822;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="rect20729-6-9-9-6-1-9-0-9-8-2"
+           width="40.897461"
+           height="1.7406615"
+           x="167.1978"
+           y="349.668"
+           class="Grey" /></g></g></g></g><rect
+   style="fill-opacity:1;stroke:none;stroke-width:4.4042"
+   id="rect2036"
+   width="53.038536"
+   height="1"
+   x="0.98063195"
+   y="27.500044"
+   class="borderColor" /><rect
+   style="clip-rule:evenodd;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.51428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   id="rect2036-1"
+   width="55.722862"
+   height="1"
+   x="0.1235347"
+   y="-28.011715"
+   class="borderColor"
+   transform="matrix(-4.2207537e-4,0.99999991,-0.99999985,-5.4814546e-4,0,0)" /></svg>
