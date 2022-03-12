@@ -56,15 +56,15 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="2"
-   inkscape:cx="-57.25"
-   inkscape:cy="110.5"
+   inkscape:zoom="8"
+   inkscape:cx="289.625"
+   inkscape:cy="119.5"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg1079" />
+   inkscape:current-layer="g1634-2" />
 
     <g
    id="code_icon"
@@ -474,7 +474,7 @@
         </g>
     </g>
     <g
-   id="Logo"
+   id="logo_icon"
    transform="matrix(0.674419,0,0,0.471429,-114.651,205.629)">
         <rect
    x="170"
@@ -1020,9 +1020,11 @@
         </g>
     </g>
     <a
-   id="a1460"><g
-     id="Binomial"
-     transform="matrix(1.27273,0,0,1.26667,273,-597.867)">
+   id="binomial_icon"
+   inkscape:label="binomial-icon"><g
+     id="binomial_icon1"
+     transform="matrix(1.27273,0,0,1.26667,273,-597.867)"
+     inkscape:label="binomial icon1">
         <rect
    x="0"
    y="472"
@@ -1043,8 +1045,7 @@
    id="g483">
             <g
    id="g481"
-   class="upsilonBlue"
-   style="">
+   class="upsilonBlue">
                 <g
    transform="matrix(0.785714,0,0,0.789474,0,99.3684)"
    id="g415">
@@ -1053,29 +1054,25 @@
                 <g
    transform="matrix(-0.785714,0,0,0.789474,27.5,99.3684)"
    id="g419"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,1.57895,1.57143,-288.263)"
    id="g423"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(-0.785714,0,0,1.57895,25.9286,-288.263)"
    id="g427"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,2.36842,3.14286,-675.895)"
    id="g431"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
@@ -1086,92 +1083,81 @@
                 <g
    transform="matrix(0.785714,0,0,4.73684,4.71429,-1838.79)"
    id="g439"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(-0.785714,0,0,4.73684,22.7857,-1838.79)"
    id="g443"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,7.89474,6.28571,-3389.32)"
    id="g447"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(-0.785714,0,0,7.89474,21.2143,-3389.32)"
    id="g451"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,10.2632,7.85714,-4552.21)"
    id="g455"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(-0.785714,0,0,10.2632,19.6429,-4552.21)"
    id="g459"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,12.6316,9.42857,-5715.11)"
    id="g463"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(-0.785714,0,0,12.6316,18.0714,-5715.11)"
    id="g467"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,14.2105,11,-6490.37)"
    id="g471"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(-0.785714,0,0,14.2105,16.5,-6490.37)"
    id="g475"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
 
                 </g>
                 <g
    transform="matrix(0.785714,0,0,15,12.5714,-6878)"
    id="g479"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
                     <g
    id="g1458"><rect
      x="1"
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect413"
      class="probabilityColor "
      transform="matrix(1,0,0,0.0526316,-15.999969,465.15789)" /><rect
      x="1"
      y="490"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect417"
      width="0.99999821"
      class="probabilityColor"
@@ -1180,7 +1166,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect421"
      class="probabilityColor"
      transform="matrix(1,0,0,0.10526333,-13.999963,439.3158)" /><rect
@@ -1188,7 +1174,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect425"
      class="probabilityColor"
      transform="matrix(-1,0,0,0.10526333,17.000082,439.3158)" /><rect
@@ -1196,7 +1182,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect429"
      class="probabilityColor"
      transform="matrix(1,0,0,0.15789467,-11.999967,413.47367)" /><rect
@@ -1204,7 +1190,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect433"
      class="probabilityColor "
      transform="matrix(-1,0,0,0.15789467,14.999985,413.47367)" /><rect
@@ -1212,7 +1198,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect437"
      class="probabilityColor"
      transform="matrix(1,0,0,0.31578933,-9.9999601,335.94733)" /><rect
@@ -1220,7 +1206,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect441"
      class="probabilityColor"
      transform="matrix(-1,0,0,0.31578933,13.000019,335.94733)" /><rect
@@ -1228,7 +1214,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect445"
      class="probabilityColor"
      transform="matrix(1,0,0,0.52631598,-7.9999737,232.57866)" /><rect
@@ -1236,7 +1222,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect449"
      class="probabilityColor"
      transform="matrix(-1,0,0,0.52631598,11.000063,232.57866)" /><rect
@@ -1252,7 +1238,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect457"
      class="probabilityColor"
      transform="matrix(-1,0,0,0.68421336,9.0000961,155.05267)" /><rect
@@ -1260,7 +1246,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect461"
      class="probabilityColor"
      transform="matrix(1,0,0,0.84210668,-3.9999708,77.525999)" /><rect
@@ -1268,7 +1254,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect465"
      class="probabilityColor"
      transform="matrix(-1,0,0,0.84210668,6.9999996,77.525999)" /><rect
@@ -1276,7 +1262,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect469"
      class="probabilityColor"
      transform="matrix(1,0,0,0.94736666,-1.9999644,25.841998)" /><rect
@@ -1284,7 +1270,7 @@
      y="490"
      width="1"
      height="1"
-     style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
      id="rect473"
      class="probabilityColor"
      transform="matrix(-1,0,0,0.94736666,5.0000332,25.841998)" /><rect
@@ -1292,7 +1278,6 @@
      y="490"
      width="1"
      height="1"
-     style=""
      id="rect477"
      class="probabilityColor" /></g>
                 </g>
@@ -1300,7 +1285,7 @@
         </g>
     </g></a>
     <g
-   id="Binomial-Focused"
+   id="focused_binomial_icon"
    serif:id="Binomial Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-597.867)">
         <rect
@@ -1308,7 +1293,7 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
+   style="fill:#1f1f1f"
    id="rect486" />
         <clipPath
    id="_clip16">
@@ -1333,7 +1318,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect491"
    class="probabilityColor" />
                 </g>
@@ -1345,7 +1329,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect495"
    class="probabilityColor" />
                 </g>
@@ -1357,7 +1340,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect499"
    class="probabilityColor" />
                 </g>
@@ -1369,7 +1351,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect503"
    class="probabilityColor" />
                 </g>
@@ -1381,7 +1362,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect507"
    class="probabilityColor" />
                 </g>
@@ -1393,7 +1373,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect511"
    class="probabilityColor" />
                 </g>
@@ -1405,7 +1384,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect515"
    class="probabilityColor" />
                 </g>
@@ -1417,7 +1395,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect519"
    class="probabilityColor" />
                 </g>
@@ -1429,7 +1406,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect523"
    class="probabilityColor" />
                 </g>
@@ -1441,7 +1417,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect527"
    class="probabilityColor" />
                 </g>
@@ -1453,7 +1428,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect531"
    class="probabilityColor" />
                 </g>
@@ -1465,7 +1439,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect535"
    class="probabilityColor" />
                 </g>
@@ -1477,7 +1450,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect539"
    class="probabilityColor" />
                 </g>
@@ -1489,7 +1461,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect543"
    class="probabilityColor" />
                 </g>
@@ -1501,7 +1472,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect547"
    class="probabilityColor" />
                 </g>
@@ -1513,7 +1483,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect551"
    class="probabilityColor" />
                 </g>
@@ -1525,7 +1494,6 @@
    y="490"
    width="1"
    height="1"
-   style=""
    id="rect555"
    class="probabilityColor" />
                 </g>
@@ -1533,7 +1501,7 @@
         </g>
     </g>
     <g
-   id="Chi-Squared"
+   id="chi_squared_icon"
    serif:id="Chi Squared"
    transform="matrix(1.27273,0,0,1.26667,273,-568.867)">
         <rect
@@ -1555,7 +1523,7 @@
         </g>
     </g>
     <g
-   id="Chi-Squared-Focused"
+   id="focused_chi_squared_icon"
    serif:id="Chi Squared Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-568.867)">
         <rect
@@ -1570,7 +1538,7 @@
    id="g575">
             <g
    id="Chi-Squared1"
-   serif:id="Chi Squared">
+   serif:id="Chi Squared1">
                 <path
    d="M0,543C0,543 1.512,537 6,537C10.488,537 20.504,548 35,548L35,549L0,549L0,543"
    style=""
@@ -1580,8 +1548,8 @@
         </g>
     </g>
     <g
-   id="Exponential"
-   transform="matrix(1.27273,0,0,1.26667,273,-539.867)">
+   id="exponential_icon"
+   transform="matrix(1.27273,0,0,1.26667,273.68746,-539.867)">
         <rect
    x="0"
    y="472"
@@ -1592,14 +1560,13 @@
    transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
    id="g582">
             <path
-   d="M35,519L35,520L0,520L0,501L1,501C1,501 0.644,509.136 12,514C23.356,518.864 35,519 35,519Z"
-   style=""
+   d="m 35,519 v 1 H 0 v -19 h 1 c 0,0 -0.356,8.136 11,13 11.356,4.864 23,5 23,5 z"
    id="path580"
    class="probabilityColor" />
         </g>
     </g>
     <g
-   id="Exponential-Focused"
+   id="focused_exponential_icon"
    serif:id="Exponential Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-539.867)">
         <rect
@@ -1614,7 +1581,7 @@
    id="g590">
             <g
    id="Exponential1"
-   serif:id="Exponential">
+   serif:id="Exponential1">
                 <path
    d="M35,519L35,520L0,520L0,501L1,501C1,501 0.644,509.136 12,514C23.356,518.864 35,519 35,519Z"
    style=""
@@ -1623,9 +1590,11 @@
             </g>
         </g>
     </g>
-    <g
-   id="Fisher"
-   transform="matrix(1.27273,0,0,1.26667,273,-510.867)">
+    <!-- <g
+   id="fisher_icon"
+   transform="matrix(1.27273,0,0,1.26667,273,-510.867)"
+   inkscape:groupmode="layer"
+   sodipodi:insensitive="true">
         <rect
    x="0"
    y="472"
@@ -1636,39 +1605,55 @@
    transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
    id="g597">
             <path
-   d="M0,578C0,578 1.751,562 4,562C6.249,562 4.362,567.694 11,572C17.638,576.306 28.257,578 32,578C35.743,578 0,578 0,578Z"
-   style=""
+   d="m 0,578 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
    id="path595"
    class="probabilityColor" />
         </g>
-    </g>
+    </g> -->
     <g
-   id="Fisher-Focused"
+   id="focused_fisher_icon"
    serif:id="Fisher Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-510.867)">
-        <rect
-   x="0"
-   y="472"
-   width="27.5"
-   height="15"
-   style="fill:#1f1f1f;"
-   id="rect600" />
+
         <g
-   transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
-   id="g605">
+   id="g1634"
+   transform="translate(0,-0.24725215)"><rect
+     x="0"
+     y="472"
+     width="27.499941"
+     height="15"
+     style="fill:#1f1f1f"
+     id="rect600" /><g
+     transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
+     id="g605">
             <g
    id="Fisher1"
-   serif:id="Fisher">
+   serif:id="Fisher1">
                 <path
-   d="M0,578C0,578 1.751,562 4,562C6.249,562 4.362,567.694 11,572C17.638,576.306 28.257,578 32,578C35.743,578 0,578 0,578Z"
-   style=""
+   d="m 0,578 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
    id="path602"
    class="probabilityColor " />
             </g>
-        </g>
+        </g></g><g
+   id="g1634-2"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+   transform="translate(-41.888303,-0.49450429)"><rect
+     x="0"
+     y="472.24734"
+     width="27.499941"
+     height="15"
+     style="fill:#1f1f1f"
+     id="rect600-6" /><g
+     transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
+     id="g605-9"><g
+       id="Fisher1-7"
+       serif:id="Fisher1"><path
+         d="m 0,578 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
+         id="path602-2"
+         class="probabilityColor " /></g></g></g>
     </g>
     <g
-   id="Geometric"
+   id="geometric_icon"
    transform="matrix(1.27273,0,0,1.26667,273,-481.867)">
         <rect
    x="0"
@@ -1910,7 +1895,7 @@
         </g>
     </g>
     <g
-   id="Geometric-Focused"
+   id="focused_geometric_icon"
    serif:id="Geometric Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-481.867)">
         <rect
@@ -1934,7 +1919,7 @@
    id="g768">
             <g
    id="Geometric1"
-   serif:id="Geometric">
+   serif:id="Geometric1">
                 <g
    transform="matrix(0.785714,0,0,0.789474,0,7.78947)"
    id="g697">
@@ -2155,7 +2140,7 @@
         </g>
     </g>
     <g
-   id="Normal"
+   id="normal_icon"
    transform="matrix(1.27273,0,0,1.26667,273,-452.867)">
         <rect
    x="0"
@@ -2187,7 +2172,7 @@
         </g>
     </g>
     <g
-   id="Normal-Focused"
+   id="focused_normal_icon"
    serif:id="Normal Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-452.867)">
         <rect
@@ -2214,7 +2199,7 @@
    id="g791">
                 <g
    id="Normal1"
-   serif:id="Normal">
+   serif:id="Normal1">
                     <path
    d="M17.5,617C18.798,617 21.141,616.966 24.5,626.5C27.543,635.139 35,635 35,635L35,636L0,636L0,635C0,635 7.457,635.139 10.5,626.5C13.859,616.966 16.202,617 17.5,617Z"
    style=""
@@ -2225,7 +2210,7 @@
         </g>
     </g>
     <g
-   id="Poisson"
+   id="poisson_icon"
    transform="matrix(1.27273,0,0,1.26667,273,-423.867)">
         <rect
    x="0"
@@ -2467,7 +2452,7 @@
         </g>
     </g>
     <g
-   id="Poisson-Focused"
+   id="focused_poisson_icon"
    serif:id="Poisson Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-423.867)">
         <rect
@@ -2491,7 +2476,7 @@
    id="g956">
             <g
    id="Poisson1"
-   serif:id="Poisson">
+   serif:id="Poisson1">
                 <g
    transform="matrix(0.785714,0,0,0.789474,0,-38)"
    id="g885">
@@ -2712,7 +2697,7 @@
         </g>
     </g>
     <g
-   id="Student"
+   id="student_icon"
    transform="matrix(1.27273,0,0,1.26667,273,-394.867)">
         <rect
    x="0"
@@ -2744,7 +2729,7 @@
         </g>
     </g>
     <g
-   id="Student-Focused"
+   id="focused_student_icon"
    serif:id="Student Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-394.867)">
         <rect
@@ -2771,7 +2756,7 @@
    id="g979">
                 <g
    id="Student1"
-   serif:id="Student">
+   serif:id="Student1">
                     <path
    d="M0,694C0,694 11.784,693.154 13.5,685.5C15.25,677.692 16.129,675 17.5,675L17.532,675C18.9,675.027 19.756,677.753 21.5,685.5C23.223,693.153 35,694 35,694L0,694Z"
    style=""
@@ -2782,7 +2767,7 @@
         </g>
     </g>
     <g
-   id="Uniform"
+   id="uniform_icon"
    transform="matrix(1.27273,0,0,1.26667,273,-365.867)">
         <rect
    x="0"
@@ -2801,7 +2786,7 @@
         </g>
     </g>
     <g
-   id="Uniform-Focused"
+   id="focused_uniform_icon"
    serif:id="Uniform Focused"
    transform="matrix(1.27273,0,0,1.26667,327,-365.867)">
         <rect
@@ -2816,7 +2801,7 @@
    id="g996">
             <g
    id="Uniform1"
-   serif:id="Uniform">
+   serif:id="Uniform1">
                 <path
    d="M0,722L7,722L7,711L29,711L29,722L35,722L35,723L28,723L28,712L19,712L19,723L0,723L0,722Z"
    style=""
@@ -2826,7 +2811,7 @@
         </g>
     </g>
     <g
-   id="Calcul-1"
+   id="calcul1_icon"
    serif:id="Calcul 1"
    transform="matrix(0.896471,0,0,0.9021,273,-398.89)">
         <rect
@@ -2846,7 +2831,7 @@
         </g>
     </g>
     <g
-   id="Calcul-1-Focused"
+   id="focused_calcul1_icon"
    serif:id="Calcul 1 Focused"
    transform="matrix(0.896471,0,0,0.9021,327,-398.89)">
         <rect
@@ -2871,7 +2856,7 @@
         </g>
     </g>
     <g
-   id="Calcul-4"
+   id="calcul4_icon"
    serif:id="Calcul 4"
    transform="matrix(0.896471,0,0,0.9021,273,-299.89)">
         <rect
@@ -2891,7 +2876,7 @@
         </g>
     </g>
     <g
-   id="Calcul-4-Focused"
+   id="focused_calcul4_icon"
    serif:id="Calcul 4 Focused"
    transform="matrix(0.896471,0,0,0.9021,327,-299.89)">
         <rect
@@ -2916,7 +2901,7 @@
         </g>
     </g>
     <g
-   id="Exam"
+   id="exam_icon"
    transform="matrix(0.413756,0,0,0.352996,273,134.782)">
         <rect
    x="0"
@@ -2964,7 +2949,7 @@
         </g>
     </g>
     <g
-   id="Calcul-3"
+   id="calcul3_icon"
    serif:id="Calcul 3"
    transform="matrix(0.896471,0,0,0.9021,273,-332.89)">
         <rect
@@ -2984,7 +2969,7 @@
         </g>
     </g>
     <g
-   id="Calcul-3-Focused"
+   id="focused_calcul3_icon"
    serif:id="Calcul 3 Focused"
    transform="matrix(0.896471,0,0,0.9021,327,-332.89)">
         <rect
@@ -3009,7 +2994,7 @@
         </g>
     </g>
     <g
-   id="Calcul-2"
+   id="calcul2_icon"
    serif:id="Calcul 2"
    transform="matrix(0.896471,0,0,0.9021,273,-365.89)">
         <rect
@@ -3029,7 +3014,7 @@
         </g>
     </g>
     <g
-   id="Calcul-2-Focused"
+   id="focused_calcul2_icon"
    serif:id="Calcul 2 Focused"
    transform="matrix(0.896471,0,0,0.9021,327,-365.89)">
         <rect
