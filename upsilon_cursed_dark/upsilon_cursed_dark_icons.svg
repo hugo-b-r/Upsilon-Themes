@@ -70,15 +70,15 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="10.24"
-   inkscape:cx="-40.136719"
-   inkscape:cy="181.93359"
+   inkscape:zoom="1.28"
+   inkscape:cx="-180.85937"
+   inkscape:cy="-85.9375"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g210"><inkscape:grid
+   inkscape:current-layer="svg1079"><inkscape:grid
      type="xygrid"
      id="grid8012"
      originx="-96.896725"
@@ -329,62 +329,7 @@
             </g>
         </g>
     </g>
-    <g
-   id="Omega"
-   transform="matrix(0.674869,0,0,0.68714,-16.896726,-175.05064)">
-        <rect
-   x="0"
-   y="368.241"
-   width="81.497002"
-   height="81.497002"
-   id="rect141"
-   class="calculatorBackground" />
-        <clipPath
-   id="_clip5">
-            <rect
-   x="0"
-   y="368.241"
-   width="81.497002"
-   height="81.497002"
-   id="rect143" />
-        </clipPath>
-        <g
-   clip-path="url(#_clip5)"
-   id="g161">
-            <g
-   transform="matrix(1.62012,0,0,1.5665,-7.60927,-208.23)"
-   id="g151">
-                <g
-   id="Icon-Border3"
-   serif:id="Icon Border">
-                    <path
-   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
-   style="fill:#2071ed"
-   id="path146" />
-                    <path
-   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
-   id="path148"
-   class="borderColor" />
-                </g>
-            </g>
-            <g
-   transform="matrix(1.48177,0,0,1.45531,0,-1475.79)"
-   id="g155">
-                <path
-   d="m 16,1307 h 7.395 v -4.41 c 0,0 -5.786,-2.82 -5.786,-9.2 0,-6.75 5.586,-9.94 9.891,-9.94"
-   style="fill:none;stroke:#ffffff;stroke-width:4px"
-   id="path153" />
-            </g>
-            <g
-   transform="matrix(-1.48177,0,0,1.45531,81.4973,-1475.79)"
-   id="g159">
-                <path
-   d="m 16,1307 h 7.395 v -4.41 c 0,0 -5.786,-2.82 -5.786,-9.2 0,-6.75 5.586,-9.94 9.891,-9.94"
-   style="fill:none;stroke:#ffffff;stroke-width:4px"
-   id="path157" />
-            </g>
-        </g>
-    </g>
+    
 
     <g
    id="logo_icon"
@@ -733,7 +678,10 @@
     <g
    id="probability_icon"
    transform="matrix(0.674869,0,0,0.68714,63.103274,-431.05053)"
-   inkscape:label="probability_icon1">
+   inkscape:label="probability_icon1"
+   inkscape:export-filename="C:\Users\hugob\Upsilon-Themes\upsilon_cursed_dark\settings_icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
         <rect
    x="0"
    y="368.241"
@@ -770,7 +718,7 @@
                 </g>
             </g>
             <g
-   transform="matrix(-0.00312295,1.4553052,-1.4817683,-0.00306718,739.98894,143.38639)"
+   transform="matrix(0.00279473,1.4553058,-1.481769,0.00274482,741.495,158.4101)"
    id="g341">
                 <path
    d="m 167,486 c 0,0 7.774,-4.662 9,-16.5 0.808,-7.8 3.251,-12.5 9,-12.5 v 29 z"
@@ -779,7 +727,7 @@
    class="Grey " />
             </g>
             <g
-   transform="matrix(0.00312295,-1.4553052,-1.4817683,-0.00306718,738.82409,686.21405)"
+   transform="matrix(-1.4817606,-0.0051901,-0.00528448,1.4553007,298.11967,-277.04543)"
    id="g345"
    class="upsilonBlue">
                 <path
@@ -3088,7 +3036,10 @@
          id="path602-7"
          class="probabilityColor " /></g></g></g><g
    id="settings_icon"
-   transform="translate(-96.896726,-265.01752)"><g
+   transform="translate(-96.896726,-265.01752)"
+   inkscape:export-filename="C:\Users\hugob\Upsilon-Themes\upsilon_cursed_dark\settings_icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"><g
      id="g7495"
      transform="translate(-3.125,2.125)"><g
        style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
@@ -3112,15 +3063,15 @@
                d="M 55,8 C 55,3.585 51.415,0 47,0 H 8 C 3.585,0 0,3.585 0,8 v 40 c 0,4.415 3.585,8 8,8 h 39 c 4.415,0 8,-3.585 8,-8 z m -1,0 v 40 c 0,3.863 -3.137,7 -7,7 H 8 C 4.137,55 1,51.863 1,48 V 8 C 1,4.137 4.137,1 8,1 h 39 c 3.863,0 7,3.137 7,7 z"
                id="path1584"
                class="borderColor" /></g><path
-             d="M 12.482,17 H 42.518"
+             d="M 19.6131,41.596012 19.66311,11.560053"
              style="stroke-width:2px"
              id="path1587"
              class="Grey  strokeGrey" /><path
-             d="M 14.837307,19.925563 40.162693,36.074437"
+             d="m 14.45941,20.144615 29.671956,4.662232"
              style="stroke-width:2px"
              id="path1589"
              class="Grey  strokeGrey" /><path
-             d="M 12.482,39 H 42.518"
+             d="M 15.145021,47.537845 39.854979,30.462155"
              style="stroke-width:2px"
              id="path1591"
              class="Grey  strokeGrey" /><circle
@@ -3130,14 +3081,14 @@
              style="stroke:none;stroke-width:3px"
              id="circle1597"
              class="upsilonBlue" /><circle
-             cx="29.441502"
-             cy="16.86725"
+             cx="36.415894"
+             cy="27.846741"
              r="3"
              style="clip-rule:evenodd;fill:#2071ed;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
              id="circle1597-6"
              class="upsilonBlue" /><circle
-             cx="39.129002"
-             cy="16.691467"
+             cx="27.320871"
+             cy="38.926662"
              r="3"
              style="clip-rule:evenodd;fill:#2071ed;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
              id="circle1597-6-0"
