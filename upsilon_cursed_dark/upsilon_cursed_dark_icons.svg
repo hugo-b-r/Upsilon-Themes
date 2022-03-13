@@ -7,27 +7,13 @@
    xml:space="preserve"
    style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
    id="svg1079"
-<<<<<<< HEAD
-   sodipodi:docname="upsilon_light_bladeless_icons.svg.2022_03_13_13_46_30.0.svg"
-=======
-   sodipodi:docname="upsilon-dark-icons.svg"
->>>>>>> origin/dev
+   sodipodi:docname="upsilon_cursed_dark_icons.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:serif="http://www.serif.com/"><style
-<<<<<<< HEAD
-   id="style1518">.strokeBorder { stroke:#C5C2C5; }
-.strokeGrey { stroke:#4A484A; }
-.probabilityBackground { fill:#FFFFFF; }
-.focusedBackground { fill:#E6E2E6; }
-.iconBackground { fill:#F6F2F6; }
-.calculatorBackground { fill:#FFFFFF; }
-.Grey { fill:#4A484A; }
-.borderColor { fill:#C5C2C5; }
-=======
    id="style1518">.strokeGrey { stroke:#ccc; }
 .probabilityBackground { fill :#000000; }
 .focusedBackground { fill:#1F1F1F; }
@@ -35,7 +21,6 @@
 .calculatorBackground { fill:#000000; }
 .Grey { fill:#ccc; }
 .borderColor { fill:#4B4B4B; }
->>>>>>> origin/dev
 .probabilityColor { fill: #C03535; }
 .upsilonBlue { fill:#2071ED; }
 </style><defs
@@ -85,24 +70,15 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-<<<<<<< HEAD
-   inkscape:zoom="2.8284271"
-   inkscape:cx="125.51145"
-   inkscape:cy="-164.40233"
+   inkscape:zoom="10.24"
+   inkscape:cx="-40.136719"
+   inkscape:cy="181.93359"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
-=======
-   inkscape:zoom="0.70710678"
-   inkscape:cx="-446.18438"
-   inkscape:cy="36.769552"
-   inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   inkscape:window-x="-1928"
->>>>>>> origin/dev
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="svg1079"><inkscape:grid
+   inkscape:current-layer="g210"><inkscape:grid
      type="xygrid"
      id="grid8012"
      originx="-96.896725"
@@ -116,13 +92,7 @@
    y="368.241"
    width="81.497002"
    height="81.497002"
-<<<<<<< HEAD
-   id="rect44"
-   class="calculatorBackground"
-   style="" />
-=======
    id="rect44" />
->>>>>>> origin/dev
         <clipPath
    id="_clip2">
             <rect
@@ -152,7 +122,7 @@
                 </g>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,0.19357,-270.459)"
+   transform="matrix(1.48177,0,0,1.45531,7.4201005,-264.08934)"
    id="g58">
                 <path
    d="m 16,477 v -7 c 0,0 -0.252,-4 4,-4 h 14 c 0,0 3,-0.077 3,-3 v -12 c 0,0 0.05,-3 -3,-3 H 20 c 0,0 -3,-0.158 -3,3 v 5 h 10.5 v 2 H 11 c 0,0 -3,-0.26 -3,3 v 13 c 0,0 -0.405,3 3,3 z"
@@ -161,7 +131,7 @@
    class="Grey " />
             </g>
             <g
-   transform="matrix(-1.48177,0,0,-1.45531,81.3037,1088.44)"
+   transform="matrix(-1.48177,0,0,-1.45531,74.077663,1082.0705)"
    id="g62"
    class="upsilonBlue">
                 <path
@@ -170,34 +140,24 @@
    class="upsilonBlue" />
             </g>
             <g
-   transform="matrix(1.94346,0,0,1.90876,-9.23389,-477.054)"
+   transform="matrix(1.94346,0,0,1.90876,-0.06377818,-470.2308)"
    id="g66">
                 <circle
    cx="21"
    cy="453"
    r="1"
-<<<<<<< HEAD
-   id="circle64"
-   class="iconBackground" />
-=======
    style="fill:#171917"
    id="circle64" />
->>>>>>> origin/dev
             </g>
             <g
-   transform="matrix(1.94346,0,0,1.90876,8.95235,-433.97)"
+   transform="matrix(1.94346,0,0,1.90876,-0.06377818,-441.1246)"
    id="g70">
                 <circle
    cx="21"
    cy="453"
    r="1"
-<<<<<<< HEAD
-   id="circle68"
-   class="iconBackground" />
-=======
    style="fill:#171917"
    id="circle68" />
->>>>>>> origin/dev
             </g>
         </g>
     </g>
@@ -244,18 +204,12 @@
    id="g89">
                 <path
    d="M 1,1126.4 H 54"
-<<<<<<< HEAD
-   style=""
-   id="path87"
-   class="borderColor  strokeBorder" />
-=======
    style="fill:none;stroke:#4b4b4b;stroke-width:1px"
    id="path87"
    class="borderColor" />
->>>>>>> origin/dev
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-84.4513,-146.707)"
+   transform="matrix(0.85070785,0,0,1.45531,-20.234455,-147.71194)"
    id="g93"
    class="upsilonBlue">
                 <text
@@ -263,44 +217,26 @@
    y="375.263"
    style="font-size:20px;font-family:Righteous-Regular, Righteous"
    id="text91"
-   class="upsilonBlue">x=?</text>
+   class="upsilonBlue">x=$</text>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-89.366,-109.187)"
+   transform="matrix(1.7204841,0,0,0.84770049,-108.46399,117.44041)"
    id="g101">
                 <text
    x="70.552002"
    y="375.263"
-<<<<<<< HEAD
-   style="font-size:20px;font-family:Righteous-Regular, Righteous"
-   id="text95"
-   class="Grey">y</text>
-                <text
-   x="81.811996"
-   y="375.263"
-   style="font-size:20px;font-family:Righteous-Regular, Righteous"
-   id="text97"
-   class="Grey">=</text>
-                <text
-   x="92.792999"
-   y="375.263"
-   style="font-size:20px;font-family:Righteous-Regular, Righteous"
-   id="text99"
-   class="Grey">?</text>
-=======
    style="font-size:20px;font-family:Righteous-Regular, Righteous;fill:#cccccc"
    id="text95">y</text>
                 <text
    x="81.811996"
    y="375.263"
    style="font-size:20px;font-family:Righteous-Regular, Righteous;fill:#cccccc"
-   id="text97">=</text>
+   id="text97">=#</text>
                 <text
    x="92.792999"
    y="375.263"
    style="font-size:20px;font-family:Righteous-Regular, Righteous;fill:#cccccc"
-   id="text99">?</text>
->>>>>>> origin/dev
+   id="text99" />
             </g>
         </g>
     </g>
@@ -339,27 +275,16 @@
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path113"
-<<<<<<< HEAD
-   class="borderColor"
-   style="" />
-=======
    class="borderColor" />
->>>>>>> origin/dev
                 </g>
             </g>
             <g
-   transform="matrix(1.22246,0,0,1.45531,-189.074,-165.857)"
+   transform="matrix(1.2209216,-0.06021466,0.07431468,1.4534786,-218.10192,-153.81415)"
    id="g120">
                 <path
    d="M 208,409 H 168 V 380"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:2.18px"
-   id="path118"
-   class="strokeGrey" />
-=======
    style="fill:none;stroke:#cccccc;stroke-width:2.18px"
    id="path118" />
->>>>>>> origin/dev
             </g>
             <g
    transform="matrix(1.48177,0,0,1.45531,-0.740884,-1354.84)"
@@ -374,14 +299,14 @@
    id="g128"
    class="upsilonBlue">
                 <circle
-   cx="105"
-   cy="1123"
+   cx="112.66601"
+   cy="1122.5605"
    r="1"
    id="circle126"
    class="upsilonBlue" />
             </g>
             <g
-   transform="matrix(2.96354,0,0,2.91062,-264.302,-2847.99)"
+   transform="matrix(2.96354,0,0,2.91062,-281.66648,-2851.4009)"
    id="g132"
    class="upsilonBlue">
                 <circle
@@ -392,7 +317,7 @@
    class="upsilonBlue" />
             </g>
             <g
-   transform="matrix(2.96354,0,0,2.91062,-255.605,-2862.54)"
+   transform="matrix(2.96354,0,0,2.91062,-268.77306,-2861.9715)"
    id="g136"
    class="upsilonBlue">
                 <circle
@@ -413,12 +338,7 @@
    width="81.497002"
    height="81.497002"
    id="rect141"
-<<<<<<< HEAD
-   class="calculatorBackground"
-   style="" />
-=======
    class="calculatorBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip5">
             <rect
@@ -444,12 +364,7 @@
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path148"
-<<<<<<< HEAD
-   class="borderColor"
-   style="" />
-=======
    class="borderColor" />
->>>>>>> origin/dev
                 </g>
             </g>
             <g
@@ -480,12 +395,7 @@
    width="170.9863"
    height="70"
    id="rect203"
-<<<<<<< HEAD
-   style="stroke-width:0.99705"
-   class="calculatorBackground" />
-=======
    style="stroke-width:0.99705" />
->>>>>>> origin/dev
         <clipPath
    id="_clip7">
             <rect
@@ -507,7 +417,7 @@
    style="font-size:9.7819px;font-family:Righteous-Regular, Righteous;stroke-width:0.97819"
    id="text208"
    class="upsilonBlue"
-   transform="scale(0.97819027,1.022296)">Upsilon</text>
+   transform="scale(0.97819027,1.022296)">Uspilon</text>
             </g>
         </g>
     </g>
@@ -520,12 +430,7 @@
    width="81.497002"
    height="81.497002"
    id="rect215"
-<<<<<<< HEAD
-   class="calculatorBackground"
-   style="" />
-=======
    class="calculatorBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip8">
             <rect
@@ -548,25 +453,15 @@
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path220"
-<<<<<<< HEAD
-   class="iconBackground"
-   style="" />
-                    <path
-   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
-   id="path222"
-   class="borderColor"
-   style="" />
-=======
    class="iconBackground" />
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 H 12.014 c -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path222"
    class="borderColor" />
->>>>>>> origin/dev
                 </g>
             </g>
             <g
-   transform="matrix(1.24175,0,0,1.21958,-188.38,-1066.09)"
+   transform="matrix(1.4496676,0,0,1.416859,-223.61784,-1304.9948)"
    id="g229"
    style="fill:#cccccc;fill-opacity:1">
                 <path
@@ -579,27 +474,18 @@
    transform="matrix(1.24175,0,0,1.21958,-188.38,-1090.48)"
    id="g233">
                 <path
-   d="m 183,1215.25 c 0,-2.35 -1.904,-4.25 -4.25,-4.25 h -8.5 c -2.346,0 -4.25,1.9 -4.25,4.25 v 8.5 c 0,2.35 1.904,4.25 4.25,4.25 h 8.5 c 2.346,0 4.25,-1.9 4.25,-4.25 z"
+   d="m 176.57274,1220.0704 c 0,-1.4615 -1.18415,-2.6432 -2.64319,-2.6432 h -5.28637 c -1.45903,0 -2.64318,1.1817 -2.64318,2.6432 v 5.2864 c 0,1.4615 1.18415,2.6432 2.64318,2.6432 h 5.28637 c 1.45904,0 2.64319,-1.1817 2.64319,-2.6432 z"
    id="path231"
-<<<<<<< HEAD
    class="Grey "
-   style="" />
-=======
-   class="Grey " />
->>>>>>> origin/dev
+   style="stroke-width:0.621927" />
             </g>
             <g
-   transform="matrix(1.24175,0,0,1.21958,-163.494,-1066.09)"
+   transform="matrix(1.11407,0,0,1.1443401,-142.29912,-974.97444)"
    id="g237">
                 <path
    d="m 183,1215.25 c 0,-2.35 -1.904,-4.25 -4.25,-4.25 h -8.5 c -2.346,0 -4.25,1.9 -4.25,4.25 v 8.5 c 0,2.35 1.904,4.25 4.25,4.25 h 8.5 c 2.346,0 4.25,-1.9 4.25,-4.25 z"
    id="path235"
-<<<<<<< HEAD
-   class="Grey "
-   style="" />
-=======
    class="Grey " />
->>>>>>> origin/dev
             </g>
             <g
    transform="matrix(0.878049,0.86237,-0.878049,0.86237,970.753,-805.349)"
@@ -667,55 +553,39 @@
    class="upsilonBlue" />
             </g>
             <g
-   transform="matrix(1.27009,0,0,0.873185,-93.8806,-574.216)"
+   transform="matrix(2.2095426,0,0,0.83817305,-175.67671,-534.79254)"
    id="g264">
                 <ellipse
-   cx="106"
+   cx="99.291679"
    cy="1126"
-   rx="21"
-   ry="10"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:2.7px"
-   id="ellipse262"
-   class="strokeGrey" />
-=======
-   style="fill:none;stroke:#cccccc;stroke-width:2.7px"
+   rx="14.537119"
+   ry="10.260549"
+   style="fill:none;stroke:#cccccc;stroke-width:2.27551px"
    id="ellipse262" />
->>>>>>> origin/dev
             </g>
             <g
-   transform="matrix(0.635044,-1.08029,0.769949,0.436592,-893.529,31.897)"
+   transform="matrix(0.76888206,-1.1854464,0.93221883,0.47909025,-1087.0051,-7.7772083)"
    id="g268">
                 <ellipse
-   cx="106"
-   cy="1126"
-   rx="21"
-   ry="10"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:2.7px"
+   cx="140.71574"
+   cy="1136.6479"
+   rx="22.636436"
+   ry="10.227352"
+   style="fill:none;stroke:#cccccc;stroke-width:2.83491px"
    id="ellipse266"
-   class="strokeGrey" />
-=======
-   style="fill:none;stroke:#cccccc;stroke-width:2.7px"
-   id="ellipse266" />
->>>>>>> origin/dev
+   transform="matrix(0.99810157,-0.06158944,-0.0318072,0.99949402,0,0)" />
             </g>
             <g
    transform="matrix(-0.635044,-1.08029,0.769949,-0.436592,-758.9,1015.1)"
    id="g272">
                 <ellipse
-   cx="106"
-   cy="1126"
-   rx="21"
-   ry="10"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:2.7px"
+   cx="190.87379"
+   cy="1152.2318"
+   rx="26.613155"
+   ry="14.102675"
+   style="fill:none;stroke:#cccccc;stroke-width:3.60956px"
    id="ellipse270"
-   class="strokeGrey" />
-=======
-   style="fill:none;stroke:#cccccc;stroke-width:2.7px"
-   id="ellipse270" />
->>>>>>> origin/dev
+   transform="matrix(0.98858537,-0.15066176,-0.0663397,0.9977971,0,0)" />
             </g>
         </g>
     </g>
@@ -758,7 +628,7 @@
                 </g>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-237.394,-1230.83)"
+   transform="matrix(1.1702659,-0.45654523,0.31197302,1.078054,-534.12265,-715.78692)"
    id="g291"
    class="upsilonBlue">
                 <path
@@ -767,18 +637,12 @@
    class="upsilonBlue" />
             </g>
             <g
-   transform="matrix(1.22246,0,0,1.45531,-189.074,-164.402)"
+   transform="matrix(1.1958709,0.24904855,-0.30736639,1.4236563,-62.819208,-198.73574)"
    id="g295">
                 <path
    d="M 208,409 H 168 V 380"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:2.18px"
-   id="path293"
-   class="strokeGrey" />
-=======
    style="fill:none;stroke:#cccccc;stroke-width:2.18px"
    id="path293" />
->>>>>>> origin/dev
             </g>
         </g>
     </g>
@@ -792,12 +656,7 @@
    width="81.497002"
    height="81.497002"
    id="rect300"
-<<<<<<< HEAD
-   class="calculatorBackground"
-   style="" />
-=======
    class="calculatorBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip11">
             <rect
@@ -819,37 +678,34 @@
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path305"
-<<<<<<< HEAD
-   class="iconBackground"
-   style="" />
-                    <path
-   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
-   id="path307"
-   class="borderColor"
-   style="" />
-=======
    class="iconBackground" />
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path307"
    class="borderColor" />
->>>>>>> origin/dev
                 </g>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-117.06,-275.005)"
+   transform="matrix(1.4801752,0.0675016,-0.06872904,1.4537437,-85.396989,-281.45829)"
    id="g314"
    class="upsilonBlue">
                 <rect
    x="101"
    y="455"
-   width="11"
+   width="10.999993"
    height="33"
    id="rect312"
    class="upsilonBlue" />
-            </g>
+            <rect
+   style="fill:#2071ed;stroke:none;stroke-width:1.31774;stroke-linejoin:round;stroke-miterlimit:1.5"
+   id="rect12135"
+   width="8.8370504"
+   height="6.7815375"
+   x="352.42963"
+   y="290.02032"
+   transform="matrix(0.78865616,0.6148345,-0.596317,0.80274905,0,0)" /></g>
             <g
-   transform="matrix(1.48177,0,0,1.10251,-97.7967,-102.838)"
+   transform="matrix(1.2653074,-0.21696172,0.19306394,1.0860819,-166.85836,-71.985751)"
    id="g318">
                 <rect
    x="101"
@@ -861,7 +717,7 @@
    class="Grey " />
             </g>
             <g
-   transform="matrix(1.48177,0,0,0.727654,-136.323,80.0901)"
+   transform="matrix(1.2565995,-0.77121605,0.39261934,0.61707932,-303.38943,214.36057)"
    id="g322">
                 <rect
    x="101"
@@ -884,12 +740,7 @@
    width="81.497002"
    height="81.497002"
    id="rect327"
-<<<<<<< HEAD
-   class="calculatorBackground"
-   style="" />
-=======
    class="calculatorBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip12">
             <rect
@@ -911,25 +762,15 @@
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z"
    id="path332"
-<<<<<<< HEAD
-   class="iconBackground"
-   style="" />
-                    <path
-   d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
-   id="path334"
-   class="borderColor"
-   style="" />
-=======
    class="iconBackground" />
                     <path
    d="M 55,375.432 C 55,371.33 51.721,368 47.683,368 H 12.014 c -4.039,0 -7.317,3.33 -7.317,7.432 v 37.161 c 0,4.102 3.278,7.432 7.317,7.432 h 35.669 c 4.038,0 7.317,-3.33 7.317,-7.432 z m -0.915,0 v 37.161 c 0,3.589 -2.868,6.503 -6.402,6.503 0,0 -35.669,0 -35.669,0 -3.534,0 -6.403,-2.914 -6.403,-6.503 v -37.161 c 0,-3.589 2.869,-6.503 6.403,-6.503 h 35.669 c 3.534,0 6.402,2.914 6.402,6.503 z"
    id="path334"
    class="borderColor" />
->>>>>>> origin/dev
                 </g>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-235.601,-272.822)"
+   transform="matrix(-0.00312295,1.4553052,-1.4817683,-0.00306718,739.98894,143.38639)"
    id="g341">
                 <path
    d="m 167,486 c 0,0 7.774,-4.662 9,-16.5 0.808,-7.8 3.251,-12.5 9,-12.5 v 29 z"
@@ -938,7 +779,7 @@
    class="Grey " />
             </g>
             <g
-   transform="matrix(-1.48177,0,0,1.45531,317.098,-272.822)"
+   transform="matrix(0.00312295,-1.4553052,-1.4817683,-0.00306718,738.82409,686.21405)"
    id="g345"
    class="upsilonBlue">
                 <path
@@ -1004,17 +845,11 @@
    id="g368">
                 <path
    d="m 67,403 h 53"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:1px"
-   id="path366"
-   class="strokeBorder" />
-=======
    style="fill:none;stroke:#4b4b4b;stroke-width:1px"
    id="path366" />
->>>>>>> origin/dev
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-74.9332,-154.214)"
+   transform="matrix(0.86461784,1.1818715,-1.2033626,0.84917834,393.54677,-31.889346)"
    id="g372">
                 <text
    x="90.796997"
@@ -1027,26 +862,21 @@
    transform="matrix(1.48177,0,0,1.45531,-75.0953,-133.292)"
    id="g376">
                 <text
-   x="86.139999"
-   y="375.263"
+   x="-312.31155"
+   y="234.83942"
    style="font-size:16px;font-family:Righteous-Regular, Righteous"
    id="text374"
-   class="upsilonBlue">16</text>
+   class="upsilonBlue"
+   transform="matrix(0.38681003,-0.92215843,0.92216042,0.38681003,0,0)">16</text>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-75.0722,-104.994)"
+   transform="matrix(-1.4817222,0.0116942,-0.01190685,-1.455263,155.54798,969.8879)"
    id="g380">
                 <text
    x="77.475998"
    y="375.263"
-<<<<<<< HEAD
-   style="font-size:16px;font-family:Righteous-Regular, Righteous"
-   id="text378"
-   class="iconBackground">215</text>
-=======
    style="font-size:16px;font-family:Righteous-Regular, Righteous;fill:#171917"
    id="text378">215</text>
->>>>>>> origin/dev
             </g>
         </g>
     </g>
@@ -1089,7 +919,7 @@
                 </g>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,-237.083,-167.312)"
+   transform="matrix(1.4732384,-0.15594448,0.15878016,1.4469307,-298.73884,-135.12522)"
    id="g399">
                 <path
    d="m 171,410.5 c 0,0 3.314,-24.5 28,-24.5 v 24.5 z"
@@ -1097,18 +927,12 @@
    class="upsilonBlue" />
             </g>
             <g
-   transform="matrix(1.22246,0,0,1.45531,-189.074,-164.402)"
+   transform="matrix(1.1697647,0.34870725,-0.43036143,1.3925775,-9.3897099,-205.21101)"
    id="g403">
                 <path
    d="M 208,409 H 168 V 380"
-<<<<<<< HEAD
-   style="fill:none;stroke-width:2.18px"
-   id="path401"
-   class="strokeGrey" />
-=======
    style="fill:none;stroke:#cccccc;stroke-width:2.18px"
    id="path401" />
->>>>>>> origin/dev
             </g>
         </g>
     </g>
@@ -1124,13 +948,7 @@
    y="472"
    width="27.5"
    height="15"
-<<<<<<< HEAD
-   id="rect408"
-   class="probabilityBackground"
-   style="" />
-=======
    id="rect408" />
->>>>>>> origin/dev
         <clipPath
    id="_clip15">
             <rect
@@ -1393,14 +1211,8 @@
    y="472"
    width="27.5"
    height="15"
-<<<<<<< HEAD
-   style=""
-   id="rect486"
-   class="focusedBackground" />
-=======
    style="fill:#1f1f1f"
    id="rect486" />
->>>>>>> origin/dev
         <clipPath
    id="_clip16">
             <rect
@@ -1616,12 +1428,7 @@
    width="27.5"
    height="15"
    id="rect563"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(0.785714,0,0,0.789474,0,53.5789)"
    id="g567"
@@ -1642,12 +1449,7 @@
    width="27.5"
    height="15"
    id="rect570"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(0.785714,0,0,0.789474,0,53.5789)"
    id="g575">
@@ -1670,12 +1472,7 @@
    width="27.5"
    height="15"
    id="rect578"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
    id="g582">
@@ -1695,12 +1492,7 @@
    width="27.5"
    height="15"
    id="rect585"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
    id="g590">
@@ -1743,12 +1535,7 @@
    width="27.5"
    height="15"
    id="rect608"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip17">
             <rect
@@ -1974,12 +1761,7 @@
    width="27.5"
    height="15"
    id="rect690"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip18">
             <rect
@@ -2205,12 +1987,7 @@
    width="27.5"
    height="15"
    id="rect771"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip19">
             <rect
@@ -2243,12 +2020,7 @@
    width="27.5"
    height="15"
    id="rect783"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip20">
             <rect
@@ -2284,12 +2056,7 @@
    width="27.5"
    height="15"
    id="rect796"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip21">
             <rect
@@ -2515,12 +2282,7 @@
    width="27.5"
    height="15"
    id="rect878"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip22">
             <rect
@@ -2746,12 +2508,7 @@
    width="27.5"
    height="15"
    id="rect959"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip23">
             <rect
@@ -2784,12 +2541,7 @@
    width="27.5"
    height="15"
    id="rect971"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <clipPath
    id="_clip24">
             <rect
@@ -2825,12 +2577,7 @@
    width="27.5"
    height="15"
    id="rect984"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(0.785714,0,0,0.789474,0,-83.7895)"
    id="g988">
@@ -2850,12 +2597,7 @@
    width="27.5"
    height="15"
    id="rect991"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(0.785714,0,0,0.789474,0,-83.7895)"
    id="g996">
@@ -2879,12 +2621,7 @@
    width="43.504002"
    height="25.496"
    id="rect999"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(1.11549,0,0,1.10852,0,-81.0445)"
    id="g1003">
@@ -2904,12 +2641,7 @@
    width="43.504002"
    height="25.496"
    id="rect1006"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(1.11549,0,0,1.10852,-0.557743,-81.0445)"
    id="g1011">
@@ -2933,12 +2665,7 @@
    width="43.504002"
    height="25.496"
    id="rect1014"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(1.11549,0,0,1.10852,0,-190.788)"
    id="g1018">
@@ -2958,12 +2685,7 @@
    width="43.504002"
    height="25.496"
    id="rect1021"
-<<<<<<< HEAD
-   class="focusedBackground "
-   style="" />
-=======
    class="focusedBackground " />
->>>>>>> origin/dev
         <g
    transform="matrix(1.11549,0,0,1.10852,-0.557743,-190.789)"
    id="g1026">
@@ -3035,12 +2757,7 @@
    width="43.504002"
    height="25.496"
    id="rect1049"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(-1.11549,0,0,1.10852,44.6194,-81.0445)"
    id="g1053">
@@ -3060,12 +2777,7 @@
    width="43.504002"
    height="25.496"
    id="rect1056"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(-1.11549,0,0,1.10852,44.0617,-81.0445)"
    id="g1061">
@@ -3089,12 +2801,7 @@
    width="43.504002"
    height="25.496"
    id="rect1064"
-<<<<<<< HEAD
-   class="probabilityBackground"
-   style="" />
-=======
    class="probabilityBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(1.11549,0,0,1.10852,0,-117.626)"
    id="g1068">
@@ -3114,12 +2821,7 @@
    width="43.504002"
    height="25.496"
    id="rect1071"
-<<<<<<< HEAD
-   class="focusedBackground"
-   style="" />
-=======
    class="focusedBackground" />
->>>>>>> origin/dev
         <g
    transform="matrix(1.11549,0,0,1.10852,-0.557743,-117.626)"
    id="g1076">
@@ -3176,11 +2878,7 @@
              transform="matrix(2.22538,0,0,2e-6,-21.5621,408.99)"
              id="g182-0-9"><path
                d="m 18,1220 20,-20"
-<<<<<<< HEAD
-               style="stroke:#2071ed;stroke-width:1.88px"
-=======
                style="fill:none;stroke:#2071ed;stroke-width:1.88px"
->>>>>>> origin/dev
                id="path180-0-2"
                class="borderColor" /></g><g
              transform="matrix(2.22538,0,0,2e-6,-21.5621,424.998)"
@@ -3197,11 +2895,7 @@
          height="2.0000207"
          x="176.58992"
          y="351.00031"
-<<<<<<< HEAD
-         class="Grey  strokeGrey " /><rect
-=======
          class="Grey  strokeGrey" /><rect
->>>>>>> origin/dev
          style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:1.334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
          id="rect1709-3-1"
          width="2.9999969"
@@ -3220,9 +2914,10 @@
          id="rect1709-3-1-0"
          width="13.999997"
          height="2.0000165"
-         x="184.00017"
-         y="360.00034"
-         class="Grey  strokeGrey " /><rect
+         x="322.77881"
+         y="242.59506"
+         class="Grey  strokeGrey "
+         transform="rotate(26.097359)" /><rect
          style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:1.334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
          id="rect1709-3-9"
          width="10.000003"
@@ -3234,9 +2929,10 @@
          id="rect1709-3-9-8"
          width="22.000004"
          height="2.0000165"
-         x="169.00017"
-         y="369.00031"
-         class="Grey  strokeGrey " /><rect
+         x="116.65035"
+         y="390.97305"
+         class="Grey  strokeGrey "
+         transform="rotate(-7.7970886)" /><rect
          style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:1.334;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
          id="rect1709-3-4"
          width="5.0000067"
@@ -3308,33 +3004,21 @@
    id="g19">
                 <path
    d="M 0,396 H 55"
-<<<<<<< HEAD
-   style="stroke-width:1px"
-   id="path17"
-   class="calculatorBackground  strokeBorder" />
-=======
    style="stroke:#4b4b4b;stroke-width:1px"
    id="path17"
    class="calculatorBackground" />
->>>>>>> origin/dev
             </g>
             <g
    transform="matrix(1.48177,0,0,1.45531,5.16117,-144.918)"
    id="g23">
                 <text
-   x="29.23"
+   x="39.229996"
    y="404.73599"
-<<<<<<< HEAD
-   style="font-size:30px;font-family:Righteous-Regular, Righteous"
-   id="text21"
-   class="iconBackground">=</text>
-=======
    style="font-size:30px;font-family:Righteous-Regular, Righteous;fill:#171917"
    id="text21">=</text>
->>>>>>> origin/dev
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,6.53581,-146.829)"
+   transform="matrix(1.48177,0,0,1.45531,16.294426,-136.21556)"
    id="g27">
                 <text
    x="2.888"
@@ -3344,7 +3028,7 @@
    class="upsilonBlue">+</text>
             </g>
             <g
-   transform="matrix(1.48177,0,0,1.45531,6.39906,-107.309)"
+   transform="matrix(-0.01813492,1.4551994,-1.4816606,-0.01781108,567.48807,420.27098)"
    id="g31"
    class="upsilonBlue">
                 <text
@@ -3358,7 +3042,7 @@
    transform="matrix(1.48177,0,0,1.45531,44.6015,-146.829)"
    id="g35">
                 <text
-   x="2.7590001"
+   x="-3.2409961"
    y="379.00299"
    style="font-size:30px;font-family:Righteous-Regular, Righteous"
    id="text33"
@@ -3378,11 +3062,7 @@
      x="0.98063195"
      y="27.500044"
      class="borderColor" /><rect
-<<<<<<< HEAD
-     style="clip-rule:evenodd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.51428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-=======
      style="clip-rule:evenodd;fill:#4b4b4b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4.51428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
->>>>>>> origin/dev
      id="rect2036-1"
      width="55.722862"
      height="1"
@@ -3396,11 +3076,7 @@
      y="82.999977"
      width="35.000076"
      height="19.00005"
-<<<<<<< HEAD
-     style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:1.2697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-=======
      style="clip-rule:evenodd;fill:#1f1f1f;fill-rule:evenodd;stroke-width:1.2697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
->>>>>>> origin/dev
      id="rect585-4-5"
      class="probabilityBackground" /><g
      transform="matrix(1.0000018,0,0,1.000003,273.12497,-476.00148)"
@@ -3439,19 +3115,8 @@
              d="M 12.482,17 H 42.518"
              style="stroke-width:2px"
              id="path1587"
-<<<<<<< HEAD
-             class="Grey  strokeGrey " /><path
-             d="M 12.482,28 H 42.518"
-             style="stroke-width:2px"
-             id="path1589"
-             class="Grey  strokeGrey " /><path
-             d="M 12.482,39 H 42.518"
-             style="stroke-width:2px"
-             id="path1591"
-             class="Grey  strokeGrey " /><circle
-=======
              class="Grey  strokeGrey" /><path
-             d="M 12.482,28 H 42.518"
+             d="M 14.837307,19.925563 40.162693,36.074437"
              style="stroke-width:2px"
              id="path1589"
              class="Grey  strokeGrey" /><path
@@ -3459,21 +3124,20 @@
              style="stroke-width:2px"
              id="path1591"
              class="Grey  strokeGrey" /><circle
->>>>>>> origin/dev
              cx="19.25"
              cy="17.125"
              r="3"
              style="stroke:none;stroke-width:3px"
              id="circle1597"
              class="upsilonBlue" /><circle
-             cx="36.375095"
-             cy="28.000063"
+             cx="29.441502"
+             cy="16.86725"
              r="3"
              style="clip-rule:evenodd;fill:#2071ed;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
              id="circle1597-6"
              class="upsilonBlue" /><circle
-             cx="25.750095"
-             cy="39.250061"
+             cx="39.129002"
+             cy="16.691467"
              r="3"
              style="clip-rule:evenodd;fill:#2071ed;fill-rule:evenodd;stroke:none;stroke-width:3px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
              id="circle1597-6-0"
