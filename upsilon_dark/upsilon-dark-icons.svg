@@ -15,9 +15,11 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:serif="http://www.serif.com/"><style
    id="style1518">
-.iconBackground {
-    fill:#171917;
+.probabilityBackground { fill :#000000; }
+.focusedBackground {
+    fill:#1F1F1F;
 }
+.iconBackground { fill:#171917; }
 .calculatorBackground { fill:#000000; }
 .Grey { fill:#ccc; }
 .borderColor { fill:#4B4B4B; }
@@ -25,29 +27,32 @@
 .upsilonBlue { fill:#2071ED; }
 </style><defs
    id="defs1083"><marker
-     style="overflow:visible"
-     id="Arrow1Lstart"
-     refX="0.0"
-     refY="0.0"
-     orient="auto"
-     inkscape:stockid="Arrow1Lstart"
-     inkscape:isstock="true"><path
-       transform="scale(0.8) translate(12.5,0)"
-       style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
-       d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-       id="path19512" /></marker><clipPath
-     id="_clip6-8"><rect
-       x="0"
-       y="368.241"
-       width="81.497002"
-       height="81.497002"
-       id="rect166-2" /></clipPath><clipPath
-     id="_clip6-8-3"><rect
-       x="0"
-       y="368.241"
-       width="81.497002"
-       height="81.497002"
-       id="rect166-2-6" /></clipPath></defs><sodipodi:namedview
+   style="overflow:visible"
+   id="Arrow1Lstart"
+   refX="0.0"
+   refY="0.0"
+   orient="auto"
+   inkscape:stockid="Arrow1Lstart"
+   inkscape:isstock="true"><path
+     transform="scale(0.8) translate(12.5,0)"
+     style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+     d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+     id="path19512" /></marker><clipPath
+   id="_clip6-8"><rect
+     x="0"
+     y="368.241"
+     width="81.497002"
+     height="81.497002"
+     id="rect166-2" /></clipPath><clipPath
+   id="_clip6-8-3"><rect
+     x="0"
+     y="368.241"
+     width="81.497002"
+     height="81.497002"
+     id="rect166-2-6" /></clipPath>
+
+
+    </defs><sodipodi:namedview
    id="namedview1081"
    pagecolor="#ffffff"
    bordercolor="#999999"
@@ -56,15 +61,15 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="8"
-   inkscape:cx="289.625"
-   inkscape:cy="119.5"
+   inkscape:zoom="2"
+   inkscape:cx="256.5"
+   inkscape:cy="208.5"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g1634-2" />
+   inkscape:current-layer="svg1079" />
 
     <g
    id="code_icon"
@@ -415,7 +420,7 @@
    id="g178">
                 <path
    d="m 18,1220 20,-20"
-   style="fill:none;stroke:#cccccc;stroke-width:1.88px"
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.08821;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
    id="path176" />
             </g>
             <g
@@ -423,7 +428,7 @@
    id="g182">
                 <path
    d="m 18,1220 20,-20"
-   style="fill:none;stroke:#2071ed;stroke-width:1.88px"
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.08821;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
    id="path180"
    class="borderColor" />
             </g>
@@ -432,7 +437,7 @@
    id="g186">
                 <path
    d="m 18,1220 20,-20"
-   style="fill:#2071ed;stroke:#cccccc;stroke-width:1.88px"
+   style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2.08821;stroke-miterlimit:1.5;stroke-dasharray:none;stroke-opacity:1"
    id="path184" />
             </g>
             <g
@@ -1509,15 +1514,14 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect563" />
+   id="rect563"
+   class="probabilityBackground" />
         <g
    transform="matrix(0.785714,0,0,0.789474,0,53.5789)"
    id="g567"
-   class="probabilityColor"
-   style="">
+   class="probabilityColor">
             <path
-   d="M0,543C0,543 1.512,537 6,537C10.488,537 20.504,548 35,548L35,549L0,549L0,543"
-   style=""
+   d="m 0,543 c 0,0 1.512,-6 6,-6 4.488,0 14.504,11 29,11 v 1 H 0 v -6"
    id="path565"
    class="probabilityColor" />
         </g>
@@ -1531,8 +1535,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect570" />
+   id="rect570"
+   class="focusedBackground" />
         <g
    transform="matrix(0.785714,0,0,0.789474,0,53.5789)"
    id="g575">
@@ -1540,8 +1544,7 @@
    id="Chi-Squared1"
    serif:id="Chi Squared1">
                 <path
-   d="M0,543C0,543 1.512,537 6,537C10.488,537 20.504,548 35,548L35,549L0,549L0,543"
-   style=""
+   d="m 0,543 c 0,0 1.512,-6 6,-6 4.488,0 14.504,11 29,11 v 1 H 0 v -6"
    id="path572"
    class="probabilityColor " />
             </g>
@@ -1555,7 +1558,8 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect578" />
+   id="rect578"
+   class="probabilityBackground" />
         <g
    transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
    id="g582">
@@ -1574,8 +1578,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect585" />
+   id="rect585"
+   class="focusedBackground" />
         <g
    transform="matrix(0.785714,0,0,0.789474,0,76.4737)"
    id="g590">
@@ -1583,75 +1587,32 @@
    id="Exponential1"
    serif:id="Exponential1">
                 <path
-   d="M35,519L35,520L0,520L0,501L1,501C1,501 0.644,509.136 12,514C23.356,518.864 35,519 35,519Z"
-   style=""
+   d="m 35,519 v 1 H 0 v -19 h 1 c 0,0 -0.356,8.136 11,13 11.356,4.864 23,5 23,5 z"
    id="path587"
    class="probabilityColor " />
             </g>
         </g>
     </g>
-    <!-- <g
-   id="fisher_icon"
-   transform="matrix(1.27273,0,0,1.26667,273,-510.867)"
-   inkscape:groupmode="layer"
-   sodipodi:insensitive="true">
-        <rect
-   x="0"
-   y="472"
-   width="27.5"
-   height="15"
-   id="rect593" />
-        <g
-   transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
-   id="g597">
-            <path
-   d="m 0,578 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
-   id="path595"
-   class="probabilityColor" />
-        </g>
-    </g> -->
-    <g
-   id="focused_fisher_icon"
-   serif:id="Fisher Focused"
-   transform="matrix(1.27273,0,0,1.26667,327,-510.867)">
 
-        <g
-   id="g1634"
-   transform="translate(0,-0.24725215)"><rect
-     x="0"
-     y="472"
-     width="27.499941"
-     height="15"
-     style="fill:#1f1f1f"
-     id="rect600" /><g
-     transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
-     id="g605">
-            <g
-   id="Fisher1"
-   serif:id="Fisher1">
-                <path
-   d="m 0,578 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
-   id="path602"
-   class="probabilityColor " />
-            </g>
-        </g></g><g
-   id="g1634-2"
-   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
-   transform="translate(-41.888303,-0.49450429)"><rect
-     x="0"
-     y="472.24734"
-     width="27.499941"
-     height="15"
-     style="fill:#1f1f1f"
-     id="rect600-6" /><g
-     transform="matrix(0.785714,0,0,0.789474,0,30.6842)"
-     id="g605-9"><g
-       id="Fisher1-7"
+
+    <g
+   id="fisher_icon"
+   transform="translate(-0.36261051)"><rect
+     x="327.36261"
+     y="86.999977"
+     width="35.000076"
+     height="19.00005"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-width:1.2697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect585-4"
+     class="focusedBackground" /><g
+     transform="matrix(1.0000018,0,0,1.000003,327.36261,-472.00149)"
+     id="g605-7-6"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"><g
+       id="Fisher1-4-6"
        serif:id="Fisher1"><path
-         d="m 0,578 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
-         id="path602-2"
+         d="m 0,577.99978 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
+         id="path602-7-8"
          class="probabilityColor " /></g></g></g>
-    </g>
     <g
    id="geometric_icon"
    transform="matrix(1.27273,0,0,1.26667,273,-481.867)">
@@ -1660,7 +1621,8 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect608" />
+   id="rect608"
+   class="probabilityBackground" />
         <clipPath
    id="_clip17">
             <rect
@@ -1683,7 +1645,6 @@
    y="589"
    width="1"
    height="18"
-   style=""
    id="rect613"
    class="probabilityColor" />
                 </g>
@@ -1695,7 +1656,6 @@
    y="592"
    width="1"
    height="15"
-   style=""
    id="rect617"
    class="probabilityColor" />
                 </g>
@@ -1707,7 +1667,6 @@
    y="595"
    width="1"
    height="12"
-   style=""
    id="rect621"
    class="probabilityColor" />
                 </g>
@@ -1719,7 +1678,6 @@
    y="597.5"
    width="1"
    height="9.5"
-   style=""
    id="rect625"
    class="probabilityColor " />
                 </g>
@@ -1731,7 +1689,6 @@
    y="599"
    width="1"
    height="8"
-   style=""
    id="rect629"
    class="probabilityColor" />
                 </g>
@@ -1743,7 +1700,6 @@
    y="601"
    width="1"
    height="6"
-   style=""
    id="rect633"
    class="probabilityColor" />
                 </g>
@@ -1755,7 +1711,6 @@
    y="602"
    width="1"
    height="5"
-   style=""
    id="rect637"
    class="probabilityColor" />
                 </g>
@@ -1767,7 +1722,6 @@
    y="603"
    width="1"
    height="4"
-   style=""
    id="rect641"
    class="probabilityColor" />
                 </g>
@@ -1779,7 +1733,6 @@
    y="604"
    width="1"
    height="3"
-   style=""
    id="rect645"
    class="probabilityColor" />
                 </g>
@@ -1791,7 +1744,6 @@
    y="604"
    width="1"
    height="3"
-   style=""
    id="rect649"
    class="probabilityColor" />
                 </g>
@@ -1803,7 +1755,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect653"
    class="probabilityColor" />
                 </g>
@@ -1815,7 +1766,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect657"
    class="probabilityColor" />
                 </g>
@@ -1827,7 +1777,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect661"
    class="probabilityColor" />
                 </g>
@@ -1839,7 +1788,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect665"
    class="probabilityColor" />
                 </g>
@@ -1851,7 +1799,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect669"
    class="probabilityColor" />
                 </g>
@@ -1863,7 +1810,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect673"
    class="probabilityColor" />
                 </g>
@@ -1875,7 +1821,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect677"
    class="probabilityColor" />
                 </g>
@@ -1887,7 +1832,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect681"
    class="probabilityColor" />
                 </g>
@@ -1903,8 +1847,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect690" />
+   id="rect690"
+   class="focusedBackground" />
         <clipPath
    id="_clip18">
             <rect
@@ -1928,7 +1872,6 @@
    y="589"
    width="1"
    height="18"
-   style=""
    id="rect695"
    class="probabilityColor " />
                 </g>
@@ -1940,7 +1883,6 @@
    y="592"
    width="1"
    height="15"
-   style=""
    id="rect699"
    class="probabilityColor " />
                 </g>
@@ -1952,7 +1894,6 @@
    y="595"
    width="1"
    height="12"
-   style=""
    id="rect703"
    class="probabilityColor " />
                 </g>
@@ -1964,7 +1905,6 @@
    y="597.5"
    width="1"
    height="9.5"
-   style=""
    id="rect707"
    class="probabilityColor " />
                 </g>
@@ -1976,7 +1916,6 @@
    y="599"
    width="1"
    height="8"
-   style=""
    id="rect711"
    class="probabilityColor " />
                 </g>
@@ -1988,7 +1927,6 @@
    y="601"
    width="1"
    height="6"
-   style=""
    id="rect715"
    class="probabilityColor " />
                 </g>
@@ -2000,7 +1938,6 @@
    y="602"
    width="1"
    height="5"
-   style=""
    id="rect719"
    class="probabilityColor " />
                 </g>
@@ -2012,7 +1949,6 @@
    y="603"
    width="1"
    height="4"
-   style=""
    id="rect723"
    class="probabilityColor " />
                 </g>
@@ -2024,7 +1960,6 @@
    y="604"
    width="1"
    height="3"
-   style=""
    id="rect727"
    class="probabilityColor " />
                 </g>
@@ -2036,7 +1971,6 @@
    y="604"
    width="1"
    height="3"
-   style=""
    id="rect731"
    class="probabilityColor " />
                 </g>
@@ -2048,7 +1982,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect735"
    class="probabilityColor " />
                 </g>
@@ -2060,7 +1993,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect739"
    class="probabilityColor " />
                 </g>
@@ -2072,7 +2004,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect743"
    class="probabilityColor " />
                 </g>
@@ -2084,7 +2015,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect747"
    class="probabilityColor " />
                 </g>
@@ -2096,7 +2026,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect751"
    class="probabilityColor " />
                 </g>
@@ -2108,7 +2037,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect755"
    class="probabilityColor " />
                 </g>
@@ -2120,7 +2048,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect759"
    class="probabilityColor " />
                 </g>
@@ -2132,7 +2059,6 @@
    y="605"
    width="1"
    height="2"
-   style=""
    id="rect763"
    class="probabilityColor " />
                 </g>
@@ -2147,7 +2073,8 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect771" />
+   id="rect771"
+   class="probabilityBackground" />
         <clipPath
    id="_clip19">
             <rect
@@ -2164,8 +2091,7 @@
    transform="matrix(0.785714,0,0,0.789474,0,-15.1053)"
    id="g778">
                 <path
-   d="M17.5,617C18.798,617 21.141,616.966 24.5,626.5C27.543,635.139 35,635 35,635L35,636L0,636L0,635C0,635 7.457,635.139 10.5,626.5C13.859,616.966 16.202,617 17.5,617Z"
-   style=""
+   d="m 17.5,617 c 1.298,0 3.641,-0.034 7,9.5 3.043,8.639 10.5,8.5 10.5,8.5 v 1 H 0 v -1 c 0,0 7.457,0.139 10.5,-8.5 3.359,-9.534 5.702,-9.5 7,-9.5 z"
    id="path776"
    class="probabilityColor " />
             </g>
@@ -2180,8 +2106,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect783" />
+   id="rect783"
+   class="focusedBackground" />
         <clipPath
    id="_clip20">
             <rect
@@ -2201,8 +2127,7 @@
    id="Normal1"
    serif:id="Normal1">
                     <path
-   d="M17.5,617C18.798,617 21.141,616.966 24.5,626.5C27.543,635.139 35,635 35,635L35,636L0,636L0,635C0,635 7.457,635.139 10.5,626.5C13.859,616.966 16.202,617 17.5,617Z"
-   style=""
+   d="m 17.5,617 c 1.298,0 3.641,-0.034 7,9.5 3.043,8.639 10.5,8.5 10.5,8.5 v 1 H 0 v -1 c 0,0 7.457,0.139 10.5,-8.5 3.359,-9.534 5.702,-9.5 7,-9.5 z"
    id="path788"
    class="probabilityColor " />
                 </g>
@@ -2217,7 +2142,8 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect796" />
+   id="rect796"
+   class="probabilityBackground" />
         <clipPath
    id="_clip21">
             <rect
@@ -2240,7 +2166,6 @@
    y="664"
    width="1"
    height="1"
-   style=""
    id="rect801"
    class="probabilityColor " />
                 </g>
@@ -2252,7 +2177,6 @@
    y="664"
    width="1"
    height="1"
-   style=""
    id="rect805"
    class="probabilityColor " />
                 </g>
@@ -2264,7 +2188,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect809"
    class="probabilityColor " />
                 </g>
@@ -2276,7 +2199,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect813"
    class="probabilityColor " />
                 </g>
@@ -2288,7 +2210,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect817"
    class="probabilityColor " />
                 </g>
@@ -2300,7 +2221,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect821"
    class="probabilityColor " />
                 </g>
@@ -2312,7 +2232,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect825"
    class="probabilityColor " />
                 </g>
@@ -2324,7 +2243,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect829"
    class="probabilityColor " />
                 </g>
@@ -2336,7 +2254,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect833"
    class="probabilityColor " />
                 </g>
@@ -2348,7 +2265,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect837"
    class="probabilityColor " />
                 </g>
@@ -2360,7 +2276,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect841"
    class="probabilityColor " />
                 </g>
@@ -2372,7 +2287,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect845"
    class="probabilityColor " />
                 </g>
@@ -2384,7 +2298,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect849"
    class="probabilityColor " />
                 </g>
@@ -2396,7 +2309,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect853"
    class="probabilityColor " />
                 </g>
@@ -2408,7 +2320,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect857"
    class="probabilityColor " />
                 </g>
@@ -2420,7 +2331,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect861"
    class="probabilityColor " />
                 </g>
@@ -2432,7 +2342,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect865"
    class="probabilityColor " />
                 </g>
@@ -2444,7 +2353,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect869"
    class="probabilityColor " />
                 </g>
@@ -2460,8 +2368,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect878" />
+   id="rect878"
+   class="focusedBackground" />
         <clipPath
    id="_clip22">
             <rect
@@ -2485,7 +2393,6 @@
    y="664"
    width="1"
    height="1"
-   style=""
    id="rect883"
    class="probabilityColor" />
                 </g>
@@ -2497,7 +2404,6 @@
    y="664"
    width="1"
    height="1"
-   style=""
    id="rect887"
    class="probabilityColor" />
                 </g>
@@ -2509,7 +2415,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect891"
    class="probabilityColor" />
                 </g>
@@ -2521,7 +2426,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect895"
    class="probabilityColor" />
                 </g>
@@ -2533,7 +2437,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect899"
    class="probabilityColor" />
                 </g>
@@ -2545,7 +2448,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect903"
    class="probabilityColor" />
                 </g>
@@ -2557,7 +2459,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect907"
    class="probabilityColor" />
                 </g>
@@ -2569,7 +2470,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect911"
    class="probabilityColor" />
                 </g>
@@ -2581,7 +2481,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect915"
    class="probabilityColor" />
                 </g>
@@ -2593,7 +2492,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect919"
    class="probabilityColor" />
                 </g>
@@ -2605,7 +2503,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect923"
    class="probabilityColor" />
                 </g>
@@ -2617,7 +2514,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect927"
    class="probabilityColor" />
                 </g>
@@ -2629,7 +2525,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect931"
    class="probabilityColor" />
                 </g>
@@ -2641,7 +2536,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect935"
    class="probabilityColor" />
                 </g>
@@ -2653,7 +2547,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect939"
    class="probabilityColor" />
                 </g>
@@ -2665,7 +2558,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect943"
    class="probabilityColor" />
                 </g>
@@ -2677,7 +2569,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect947"
    class="probabilityColor" />
                 </g>
@@ -2689,7 +2580,6 @@
    y="663"
    width="1"
    height="2"
-   style=""
    id="rect951"
    class="probabilityColor" />
                 </g>
@@ -2704,7 +2594,8 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect959" />
+   id="rect959"
+   class="probabilityBackground" />
         <clipPath
    id="_clip23">
             <rect
@@ -2721,8 +2612,7 @@
    transform="matrix(0.785714,0,0,0.789474,0,-60.8947)"
    id="g966">
                 <path
-   d="M0,694C0,694 11.784,693.154 13.5,685.5C15.25,677.692 16.129,675 17.5,675L17.532,675C18.9,675.027 19.756,677.753 21.5,685.5C23.223,693.153 35,694 35,694L0,694Z"
-   style=""
+   d="m 0,694 c 0,0 11.784,-0.846 13.5,-8.5 1.75,-7.808 2.629,-10.5 4,-10.5 h 0.032 c 1.368,0.027 2.224,2.753 3.968,10.5 1.723,7.653 13.5,8.5 13.5,8.5 z"
    id="path964"
    class="probabilityColor" />
             </g>
@@ -2737,8 +2627,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect971" />
+   id="rect971"
+   class="focusedBackground" />
         <clipPath
    id="_clip24">
             <rect
@@ -2758,8 +2648,7 @@
    id="Student1"
    serif:id="Student1">
                     <path
-   d="M0,694C0,694 11.784,693.154 13.5,685.5C15.25,677.692 16.129,675 17.5,675L17.532,675C18.9,675.027 19.756,677.753 21.5,685.5C23.223,693.153 35,694 35,694L0,694Z"
-   style=""
+   d="m 0,694 c 0,0 11.784,-0.846 13.5,-8.5 1.75,-7.808 2.629,-10.5 4,-10.5 h 0.032 c 1.368,0.027 2.224,2.753 3.968,10.5 1.723,7.653 13.5,8.5 13.5,8.5 z"
    id="path976"
    class="probabilityColor " />
                 </g>
@@ -2774,13 +2663,13 @@
    y="472"
    width="27.5"
    height="15"
-   id="rect984" />
+   id="rect984"
+   class="probabilityBackground" />
         <g
    transform="matrix(0.785714,0,0,0.789474,0,-83.7895)"
    id="g988">
             <path
-   d="M0,722L7,722L7,711L29,711L29,722L35,722L35,723L28,723L28,712L19,712L19,723L0,723L0,722Z"
-   style=""
+   d="m 0,722 h 7 v -11 h 22 v 11 h 6 v 1 h -7 v -11 h -9 v 11 H 0 Z"
    id="path986"
    class="probabilityColor" />
         </g>
@@ -2794,8 +2683,8 @@
    y="472"
    width="27.5"
    height="15"
-   style="fill:#1f1f1f;"
-   id="rect991" />
+   id="rect991"
+   class="focusedBackground" />
         <g
    transform="matrix(0.785714,0,0,0.789474,0,-83.7895)"
    id="g996">
@@ -2803,8 +2692,7 @@
    id="Uniform1"
    serif:id="Uniform1">
                 <path
-   d="M0,722L7,722L7,711L29,711L29,722L35,722L35,723L28,723L28,712L19,712L19,723L0,723L0,722Z"
-   style=""
+   d="m 0,722 h 7 v -11 h 22 v 11 h 6 v 1 h -7 v -11 h -9 v 11 H 0 Z"
    id="path993"
    class="probabilityColor " />
             </g>
@@ -2816,16 +2704,16 @@
    transform="matrix(0.896471,0,0,0.9021,273,-398.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   id="rect999" />
+   id="rect999"
+   class="probabilityBackground" />
         <g
    transform="matrix(1.11549,0,0,1.10852,0,-81.0445)"
    id="g1003">
             <path
-   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C23.872,740.698 22.975,738.362 22.045,737.255C21.013,736.027 20,736.245 20,736.245L20,754Z"
-   style=""
+   d="M 20,754 H 4 v -1 c 0,0 8.063,-0.478 10,-8.5 1.937,-8.022 4.044,-9.5 6,-9.5 h 0.023 c 1.981,0.023 4.055,1.54 5.977,9.5 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 -1.01,-3.802 -1.907,-6.138 -2.837,-7.245 C 21.013,736.027 20,736.245 20,736.245 Z"
    id="path1001"
    class="probabilityColor" />
         </g>
@@ -2836,11 +2724,11 @@
    transform="matrix(0.896471,0,0,0.9021,327,-398.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   style="fill:#1f1f1f;"
-   id="rect1006" />
+   id="rect1006"
+   class="focusedBackground" />
         <g
    transform="matrix(1.11549,0,0,1.10852,-0.557743,-81.0445)"
    id="g1011">
@@ -2848,8 +2736,7 @@
    id="Calcul-11"
    serif:id="Calcul 1">
                 <path
-   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C23.872,740.698 22.975,738.362 22.045,737.255C21.013,736.027 20,736.245 20,736.245L20,754Z"
-   style=""
+   d="M 20,754 H 4 v -1 c 0,0 8.063,-0.478 10,-8.5 1.937,-8.022 4.044,-9.5 6,-9.5 h 0.023 c 1.981,0.023 4.055,1.54 5.977,9.5 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 -1.01,-3.802 -1.907,-6.138 -2.837,-7.245 C 21.013,736.027 20,736.245 20,736.245 Z"
    id="path1008"
    class="probabilityColor " />
             </g>
@@ -2861,16 +2748,16 @@
    transform="matrix(0.896471,0,0,0.9021,273,-299.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   id="rect1014" />
+   id="rect1014"
+   class="probabilityBackground" />
         <g
    transform="matrix(1.11549,0,0,1.10852,0,-190.788)"
    id="g1018">
             <path
-   d="M19.998,835.246C19.907,835.246 17.199,834.764 15.118,843.5C13.018,852.667 4,853 4,853L4,852C4,852 12.063,851.522 14,843.5C15.922,835.54 18.018,834.023 20,834L20.006,834C21.994,834.03 24.082,835.556 26,843.5C27.937,851.522 36,852 36,852L36,853C36,853 26.982,852.667 24.882,843.5C24.279,841.23 23.814,839.585 23.189,838.391L23.189,853.001L22.189,853.001L22.189,836.799C21.251,835.133 20,835.245 20,835.245L19.998,835.246Z"
-   style=""
+   d="m 19.998,835.246 c -0.091,0 -2.799,-0.482 -4.88,8.254 C 13.018,852.667 4,853 4,853 v -1 c 0,0 8.063,-0.478 10,-8.5 1.922,-7.96 4.018,-9.477 6,-9.5 h 0.006 c 1.988,0.03 4.076,1.556 5.994,9.5 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 -0.603,-2.27 -1.068,-3.915 -1.693,-5.109 v 14.61 h -1 V 836.799 C 21.251,835.133 20,835.245 20,835.245 Z"
    id="path1016"
    class="probabilityColor" />
         </g>
@@ -2881,11 +2768,11 @@
    transform="matrix(0.896471,0,0,0.9021,327,-299.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   style="fill:#1f1f1f;"
-   id="rect1021" />
+   id="rect1021"
+   class="focusedBackground " />
         <g
    transform="matrix(1.11549,0,0,1.10852,-0.557743,-190.789)"
    id="g1026">
@@ -2893,8 +2780,7 @@
    id="Calcul-41"
    serif:id="Calcul 4">
                 <path
-   d="M19.998,835.246C19.907,835.246 17.199,834.764 15.118,843.5C13.018,852.667 4,853 4,853L4,852C4,852 12.063,851.522 14,843.5C15.922,835.54 18.018,834.023 20,834L20.006,834C21.994,834.03 24.082,835.556 26,843.5C27.937,851.522 36,852 36,852L36,853C36,853 26.982,852.667 24.882,843.5C24.279,841.23 23.814,839.585 23.189,838.391L23.189,853.001L22.189,853.001L22.189,836.799C21.251,835.133 20,835.245 20,835.245L19.998,835.246Z"
-   style=""
+   d="m 19.998,835.246 c -0.091,0 -2.799,-0.482 -4.88,8.254 C 13.018,852.667 4,853 4,853 v -1 c 0,0 8.063,-0.478 10,-8.5 1.922,-7.96 4.018,-9.477 6,-9.5 h 0.006 c 1.988,0.03 4.076,1.556 5.994,9.5 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 -0.603,-2.27 -1.068,-3.915 -1.693,-5.109 v 14.61 h -1 V 836.799 C 21.251,835.133 20,835.245 20,835.245 Z"
    id="path1023"
    class="probabilityColor " />
             </g>
@@ -2954,16 +2840,16 @@
    transform="matrix(0.896471,0,0,0.9021,273,-332.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   id="rect1049" />
+   id="rect1049"
+   class="probabilityBackground" />
         <g
    transform="matrix(-1.11549,0,0,1.10852,44.6194,-81.0445)"
    id="g1053">
             <path
-   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C22.816,735.481 20,736.245 20,736.245L20,754Z"
-   style=""
+   d="M 20,754 H 4 v -1 c 0,0 8.063,-0.478 10,-8.5 1.937,-8.022 4.044,-9.5 6,-9.5 h 0.023 c 1.981,0.023 4.055,1.54 5.977,9.5 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 C 22.816,735.481 20,736.245 20,736.245 Z"
    id="path1051"
    class="probabilityColor" />
         </g>
@@ -2974,11 +2860,11 @@
    transform="matrix(0.896471,0,0,0.9021,327,-332.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   style="fill:#1f1f1f;"
-   id="rect1056" />
+   id="rect1056"
+   class="focusedBackground" />
         <g
    transform="matrix(-1.11549,0,0,1.10852,44.0617,-81.0445)"
    id="g1061">
@@ -2986,8 +2872,7 @@
    id="Calcul-31"
    serif:id="Calcul 3">
                 <path
-   d="M20,754L4,754L4,753C4,753 12.063,752.522 14,744.5C15.937,736.478 18.044,735 20,735L20.023,735C22.004,735.023 24.078,736.54 26,744.5C27.937,752.522 36,753 36,753L36,754C36,754 26.982,753.667 24.882,744.5C22.816,735.481 20,736.245 20,736.245L20,754Z"
-   style=""
+   d="M 20,754 H 4 v -1 c 0,0 8.063,-0.478 10,-8.5 1.937,-8.022 4.044,-9.5 6,-9.5 h 0.023 c 1.981,0.023 4.055,1.54 5.977,9.5 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 C 22.816,735.481 20,736.245 20,736.245 Z"
    id="path1058"
    class="probabilityColor " />
             </g>
@@ -2999,16 +2884,16 @@
    transform="matrix(0.896471,0,0,0.9021,273,-365.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   id="rect1064" />
+   id="rect1064"
+   class="probabilityBackground" />
         <g
    transform="matrix(1.11549,0,0,1.10852,0,-117.626)"
    id="g1068">
             <path
-   d="M16,774.336C15.7,775.15 15.403,776.426 15.118,777.5C13.018,786.667 4,787 4,787L4,786C4,786 12.063,785.522 14,777.5C15.922,769.54 18.018,768.023 20,768L20.023,768.001C22.03,768.048 24.093,769.602 26,777.5C27.937,785.522 36,786 36,786L36,787C36,787 26.982,786.667 24.882,777.5C24.597,776.425 24.3,775.149 24,774.336L24,787L16,787L16,774.336Z"
-   style=""
+   d="m 16,774.336 c -0.3,0.814 -0.597,2.09 -0.882,3.164 C 13.018,786.667 4,787 4,787 v -1 c 0,0 8.063,-0.478 10,-8.5 1.922,-7.96 4.018,-9.477 6,-9.5 l 0.023,10e-4 c 2.007,0.047 4.07,1.601 5.977,9.499 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 C 24.597,776.425 24.3,775.149 24,774.336 V 787 h -8 z"
    id="path1066"
    class="probabilityColor" />
         </g>
@@ -3019,11 +2904,11 @@
    transform="matrix(0.896471,0,0,0.9021,327,-365.89)">
         <rect
    x="0"
-   y="731.504"
-   width="43.504"
+   y="731.50403"
+   width="43.504002"
    height="25.496"
-   style="fill:#1f1f1f;"
-   id="rect1071" />
+   id="rect1071"
+   class="focusedBackground" />
         <g
    transform="matrix(1.11549,0,0,1.10852,-0.557743,-117.626)"
    id="g1076">
@@ -3031,8 +2916,7 @@
    id="Calcul-21"
    serif:id="Calcul 2">
                 <path
-   d="M16,774.336C15.7,775.15 15.403,776.426 15.118,777.5C13.018,786.667 4,787 4,787L4,786C4,786 12.063,785.522 14,777.5C15.922,769.54 18.018,768.023 20,768L20.023,768.001C22.03,768.048 24.093,769.602 26,777.5C27.937,785.522 36,786 36,786L36,787C36,787 26.982,786.667 24.882,777.5C24.597,776.425 24.3,775.149 24,774.336L24,787L16,787L16,774.336Z"
-   style=""
+   d="m 16,774.336 c -0.3,0.814 -0.597,2.09 -0.882,3.164 C 13.018,786.667 4,787 4,787 v -1 c 0,0 8.063,-0.478 10,-8.5 1.922,-7.96 4.018,-9.477 6,-9.5 l 0.023,10e-4 c 2.007,0.047 4.07,1.601 5.977,9.499 1.937,8.022 10,8.5 10,8.5 v 1 c 0,0 -9.018,-0.333 -11.118,-9.5 C 24.597,776.425 24.3,775.149 24,774.336 V 787 h -8 z"
    id="path1073"
    class="probabilityColor " />
             </g>
@@ -3364,4 +3248,21 @@
      x="0.1235347"
      y="-28.011715"
      class="borderColor"
-     transform="matrix(-4.2207537e-4,0.99999991,-0.99999985,-5.4814546e-4,0,0)" /></g></svg>
+     transform="matrix(-4.2207537e-4,0.99999991,-0.99999985,-5.4814546e-4,0,0)" /></g><g
+   id="focused_fisher_icon"
+   transform="translate(0.18748987,4)"><rect
+     x="273.12497"
+     y="82.999977"
+     width="35.000076"
+     height="19.00005"
+     style="clip-rule:evenodd;fill:#1f1f1f;fill-rule:evenodd;stroke-width:1.2697;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"
+     id="rect585-4-5"
+     class="probabilityBackground" /><g
+     transform="matrix(1.0000018,0,0,1.000003,273.12497,-476.00148)"
+     id="g605-7"
+     style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5"><g
+       id="Fisher1-4"
+       serif:id="Fisher1"><path
+         d="m 0,577.99978 c 0,0 1.751,-16 4,-16 2.249,0 0.362,5.694 7,10 6.638,4.306 17.257,6 21,6 3.743,0 -32,0 -32,0 z"
+         id="path602-7"
+         class="probabilityColor " /></g></g></g></svg>
