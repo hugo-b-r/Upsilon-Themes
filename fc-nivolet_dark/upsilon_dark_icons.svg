@@ -22,7 +22,9 @@
 .calculatorBackground { fill:#000000; }
 .Grey { fill:#ccc; }
 .borderColor { fill:#4B4B4B; }
-.probabilityColor { fill: #C03535; }
+.probabilityColor { 
+    fill:#FD0014;
+}
 .upsilonBlue { fill:#FD0014; }
 </style><defs
    id="defs1083"><marker
@@ -71,9 +73,9 @@
    inkscape:pageopacity="0"
    inkscape:pagecheckerboard="0"
    showgrid="false"
-   inkscape:zoom="22.627417"
-   inkscape:cx="184.3781"
-   inkscape:cy="127.456"
+   inkscape:zoom="1.4142136"
+   inkscape:cx="36.769553"
+   inkscape:cy="-75.660426"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
@@ -2708,7 +2710,6 @@
    y="731.50403"
    width="43.504002"
    height="25.496"
-   style=""
    id="rect1029"
    class="upsilonBlue " />
         <clipPath
