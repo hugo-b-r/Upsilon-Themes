@@ -23,6 +23,6 @@ os.system("git checkout upsilon-dev") #building the dev branch as we are crazy
 
 for theme in themes:
     print(f"building theme: {theme}")
-    os.system("make clean")
+    os.system("make cleanall")
     os.system(f"make PLATFORM=simulator THEME_NAME={theme} THEME_REPO=https://github.com/hugo-b-r/Upsilon-Themes.git -j8 > ../{theme}_log.txt")
     shutil.move('./output/release/simulator/linux/epsilon.bin', f'../{theme}.bin')
