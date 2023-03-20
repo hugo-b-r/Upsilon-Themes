@@ -1,0 +1,12 @@
+I18N    apps/i18n.cpp
+APPS_LAYOUTapps/home/apps_layout.cpp
+QSTRDAT python/port/genhdr/qstrdefs.generated.h
+THEME   escher/palette.h
+HOSTCC  escher/image/inliner
+INCBIN  ion/src/simulator/linux/assets.s
+INCBIN  ion/src/simulator/linux/platform_images.h
+HOSTCC  kandinsky/fonts/rasterizer
+RASTER  kandinsky/fonts/ItalicLargeFontExtended.cpp
+RASTER  kandinsky/fonts/ItalicSmallFontExtended.cpp
+RASTER  kandinsky/fonts/LargeFontExtended.cpp
+RASTER  kandinsky/fonts/SmallFontExtended.cpp
