@@ -10,6 +10,14 @@ for file in files:
     if split_file[1] == '.json':
         themes.append(split_file[0])
 
+
+#get rid of bl themes
+for theme in themes:
+    if theme.find("bl") != -1:
+        index = themes.index(theme)
+        themes.pop(index)
+
+print(themes)
 #set up building
 try:
     os.mkdir("build")
